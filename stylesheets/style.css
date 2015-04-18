@@ -133,6 +133,7 @@ nav li{
   margin: 0 40px 0 0 ;
 }
 .columns3{
+  min-width: 250px;
   width: 28%;
   float: left;
   padding: 1%;
