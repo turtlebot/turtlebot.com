@@ -239,7 +239,7 @@ nav li{
 footer{
   padding: 2px;
   border-top: 1px solid #ccc;
-  width: 800px;
+  width: auto;
   margin: 100px auto 0 auto;
 }
 footer img{
