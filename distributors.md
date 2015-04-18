@@ -10,6 +10,8 @@ show_in_nav: true
 
 The introduction of TurtleBot 2 has been a great success! Distributors around the world are lined up to serve all your TurtleBot needs.
 
+<script type="text/javascript" src="https://embed.github.com/view/geojson/turtlebot/map/master/Distributors.geojson"></script>
+
 ## North America
 
  <h6><a href="http://www.clearpathrobotics.com/turtlebot_2"><img title="Clearpath Robotics" src="{{ site.baseurl }}/assets/images/distributors/Clearpath_Robotics.png" alt="Clearpath Robotics TurtleBot 2 Distrubutor" width="275" height="70" /><span style="font-weight: bold;">Clearpath Robotics</span></a></h6>
