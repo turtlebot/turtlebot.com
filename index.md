@@ -12,9 +12,9 @@ Open-source robot development kit for apps on wheels.
 <img id="largeRobot" src="{{ site.baseurl }}/assets/images/turtlebot_2_lg.png" alt="" width="269" height="358" />
 
 # Quick Links
- * [I want to buy a TurtleBot!]({{site.baseurl}}distributors)
- * [I want to build my own TurtleBot!]({{site.baseurl}}build)
- * [Help me get started!]({{site.baseurl}}getting-started)
+ * [I want to buy a TurtleBot!]({{site.baseurl}}/distributors)
+ * [I want to build my own TurtleBot!]({{site.baseurl}}/build)
+ * [Help me get started!]({{site.baseurl}}/getting-started)
 
 # What is a TurtleBot?
 
