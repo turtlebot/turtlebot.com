@@ -17,7 +17,7 @@ The introduction of TurtleBot 2 has been a great success! Distributors around th
  <h6><a href="http://www.clearpathrobotics.com/turtlebot_2"><img title="Clearpath Robotics" src="{{ site.baseurl }}/assets/images/distributors/Clearpath_Robotics.png" alt="Clearpath Robotics TurtleBot 2 Distrubutor" width="275" height="70" /><span style="font-weight: bold;">Clearpath Robotics</span></a></h6>
 
 ## Europe
- <h6><a href="http://www.active8robots.com/"><img title="Active8 Robots" src="{{ site.baseurl }}/assets/images/distributors/Active8.jpg" alt="Active8 Robots" height="70" />Active8 Robots</a></h6>
+ <h6><a href="http://www.active8robots.com/products/turtlebot2/"><img title="Active8 Robots" src="{{ site.baseurl }}/assets/images/distributors/Active8.jpg" alt="Active8 Robots" height="70" />Active8 Robots</a></h6>
  <br>
  <h6><a href="http://www.arobose.com/shop/"><img title="Arobose" src="{{ site.baseurl }}/assets/images/distributors/Arobose.png" alt="Arobose" height="70" />Arobose</a></h6>
  <br>
