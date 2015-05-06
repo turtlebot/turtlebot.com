@@ -29,7 +29,7 @@ TurtleBot is a low-cost, personal robot kit with open-source software. With Turt
 <p>The main hardware includes:</p>
 <ul>
 <li>Kobuki Base</li>
-<li>Microsoft Kinect</li>
+<li>Asus Xion Pro Live</li>
 <li>Netbook (ROS Compatible)</li>
 <li>Kinect Mounting Hardware</li>
 <li>TurtleBot Structure</li>
