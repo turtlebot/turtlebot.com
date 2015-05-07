@@ -20,7 +20,7 @@ show_in_nav: true
 <br>
 <h6><a href="http://robotnik.es/en"><img title="Robotnik" src="{{ site.baseurl }}/assets/images/distributors/Robotnik.png" alt="Robotnik" width="275" height="70" />Robotnik</a></h6>
 <br>
-<h6><a href="http://kobuki.yujinrobot.com/store/"><img title="Yujin" src="{{ site.baseurl }}/assets/images/distributors/Yujin.png" alt="Yujin" width="275" height="70" />Yujin Robot</a></h6>
+<h6><a href="http://kobuki.yujinrobot.com/"><img title="Yujin" src="{{ site.baseurl }}/assets/images/distributors/Yujin.png" alt="Yujin" width="275" height="70" />Yujin Robot</a></h6>
  
 
 # Become a Licensed Distributor or Manufacturer
