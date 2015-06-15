@@ -20,8 +20,10 @@ show_in_nav: true
 <br>
 <h6><a href="http://robotnik.es/en"><img title="Robotnik" src="{{ site.baseurl }}/assets/images/distributors/Robotnik.png" alt="Robotnik" width="275" height="70" />Robotnik</a></h6>
 <br>
+<h6> <a href="http://www.sensorobots.net/"><img title="Sensorobot" src="{{ site.baseurl }}/assets/images/distributors/sensorobots.jpg" alt="Sensorobot" width="300" height="61" />Sensorobot</a></h6>
+<br>
 <h6><a href="http://kobuki.yujinrobot.com/"><img title="Yujin" src="{{ site.baseurl }}/assets/images/distributors/Yujin.png" alt="Yujin" width="275" height="70" />Yujin Robot</a></h6>
- 
+
 
 # Become a Licensed Distributor or Manufacturer
 The Open Source Robotics Foundation is actively accepting applications to become a distributor or manufacturer. Follow the link below to find out more.

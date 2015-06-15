@@ -26,14 +26,16 @@ The introduction of TurtleBot 2 has been a great success! Distributors around th
  <h6><a href="http://robotnik.es/en"><img title="Robotnik" src="{{ site.baseurl }}/assets/images/distributors/Robotnik.png" alt="Robotnik" width="275" height="70" />Robotnik</a></h6>
  <br>
  <h6><a href="http://www.robotsepeti.com/arama/turtlebot"><img title="Robot Sepeti" src="{{ site.baseurl }}/assets/images/distributors/Robot_Sepeti_Gilbo.png" alt="Robot Sepeti" height="100" />Robot Sepeti</a></h6>
- 
+
 ## Asia
 <h6><a href="http://www.lattel.my/"><img title="Lattel" src="{{ site.baseurl }}/assets/images/distributors/Lattel.png" alt="Yujin" height="100" />Lattel</a></h6>
 <br>
 <h6> <a href="http://www.gaitech.hk/"><img title="GaiTech" src="{{ site.baseurl }}/assets/images/distributors/Gaitech.png" alt="GaiTech" width="300" height="61" />GaiTech</a></h6>
 <br>
+<h6> <a href="http://www.sensorobots.net/"><img title="Sensorobot" src="{{ site.baseurl }}/assets/images/distributors/sensorobots.jpg" alt="Sensorobot" width="300" height="61" />Sensorobot</a></h6>
+<br>
 <h6><a href="http://kobuki.yujinrobot.com/store/"><img title="Yujin" src="{{ site.baseurl }}/assets/images/distributors/Yujin.png" alt="Yujin" width="275" height="70" />Yujin Robot</a></h6>
- 
+
 ## Other
 Is your region not listed above? Try contacting the distributors listed above. We're sure you'll find a distributor who's happy to help you.
 
