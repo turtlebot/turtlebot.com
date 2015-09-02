@@ -34,7 +34,7 @@ The introduction of TurtleBot 2 has been a great success! Distributors around th
 <br>
 <h6> <a href="http://www.sensorobots.net/"><img title="Sensorobot" src="{{ site.baseurl }}/assets/images/distributors/sensorobots.jpg" alt="Sensorobot" width="300" height="61" />Sensorobot</a></h6>
 <br>
-<h6><a href="http://kobuki.yujinrobot.com/store/"><img title="Yujin" src="{{ site.baseurl }}/assets/images/distributors/Yujin.png" alt="Yujin" width="275" height="70" />Yujin Robot</a></h6>
+<h6><a href="http://garage.yujinrobot.com/"><img title="Yujin" src="{{ site.baseurl }}/assets/images/distributors/Yujin.png" alt="Yujin" width="275" height="70" />Yujin Robot</a></h6>
 
 ## Other
 Is your region not listed above? Try contacting the distributors listed above. We're sure you'll find a distributor who's happy to help you.
