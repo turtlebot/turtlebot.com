@@ -19,7 +19,7 @@ The introduction of TurtleBot 2 has been a great success! Distributors around th
  <h6><a href="http://dabit.industries/"><img title="Dabit Industries" src="{{ site.baseurl }}/assets/images/distributors/dabit.png" alt="Dabit Industries TurtleBot 2 Distrubutor" width="275" height="70" /><span style="font-weight: bold;">Dabit Indutries</span></a></h6>
  
 ## Europe
- <h6><a href="http://www.active-robots.com/brands/turtlebot"><img title="Active8 Robots" src="{{ site.baseurl }}/assets/images/distributors/Active8.jpg" alt="Active8 Robots" height="70" />Active8 Robots</a></h6>
+ <h6><a href="http://www.active-robots.com/brands/turtlebot"><img title="Active Robots" src="{{ site.baseurl }}/assets/images/distributors/Active.jpg" alt="Active Robots" height="70" />Active Robots</a></h6>
  <br>
  <h6><a href="http://www.arobose.com/shop/"><img title="Arobose" src="{{ site.baseurl }}/assets/images/distributors/Arobose.png" alt="Arobose" height="70" />Arobose</a></h6>
  <br>
