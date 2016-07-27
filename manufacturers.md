@@ -12,6 +12,8 @@ show_in_nav: true
 <br>
 <h6><a href="http://www.clearpathrobotics.com/turtlebot_2"><img title="Clearpath Robotics" src="{{ site.baseurl }}/assets/images/distributors/Clearpath_Robotics.png" alt="Clearpath Robotics TurtleBot 2 Distrubutor" width="275" height="70" />Clearpath Robotics</span></a></h6>
 <br>
+<h6><a href="http://www.dronyx.com/"><img title="Dronyx" src="{{ site.baseurl }}/assets/images/distributors/dronyx.png" alt="Dronyx" width="180" height="70" />Dronyx</a></h6>
+<br>
 <h6> <a href="http://www.gaitech.hk/"><img title="GaiTech" src="{{ site.baseurl }}/assets/images/distributors/Gaitech.png" alt="GaiTech" width="300" height="61" />GaiTech</a></h6>
 <br>
 <h6><a href="http://www.gilbo.com.tr/"><img title="Gilbo" src="{{ site.baseurl }}/assets/images/distributors/Gilbo.png" alt="Robot Sepeti" height="100" />Robot Sepeti</a></h6>

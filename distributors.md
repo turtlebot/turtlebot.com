@@ -25,6 +25,8 @@ The introduction of TurtleBot 2 has been a great success! Distributors around th
  <br>
  <h6><a href="http://inrobotek.com.tr/Entry.aspx?MenuID=1"><img title="Innorobotek" src="{{ site.baseurl }}/assets/images/distributors/Innorobotek.png" alt="Innorobotek" width="275" height="70" />Innorobotek</a></h6>
  <br>
+ <h6><a href="http://www.dronyx.com/"><img title="Dronyx" src="{{ site.baseurl }}/assets/images/distributors/dronyx.png" alt="Dronyx" width="180" height="70" />Dronyx</a></h6>
+ <br>
  <h6><a href="http://robotnik.es/en"><img title="Robotnik" src="{{ site.baseurl }}/assets/images/distributors/Robotnik.png" alt="Robotnik" width="275" height="70" />Robotnik</a></h6>
  <br>
  <h6><a href="http://www.robotsepeti.com/arama/turtlebot"><img title="Robot Sepeti" src="{{ site.baseurl }}/assets/images/distributors/Robot_Sepeti_Gilbo.png" alt="Robot Sepeti" height="100" />Robot Sepeti</a></h6>
