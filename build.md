@@ -24,6 +24,8 @@ such as the 96 Boards CE computer, the DB410c.
 
 Documentation of the TurtleBot2e can be found on github at [turtlebot/turtlebot2e]( https://github.com/turtlebot/turtlebot2e) and you can get it in pdf format [here](https://github.com/turtlebot/turtlebot2e/releases/download/0.0.1/turtlebot2e.pdf).
 
+Dabit Industries is offering the [TurtleBot2e](http://dabit.industries/collections/frontpage/products/turtlebot-2e) and the [TurtleBot2e Accessory Kit](http://dabit.industries/products/turtlebot-2e-sbc-accessories-kit).
+
 ## Build from Scratch
 You can build a Turtlebot from scratch by purchasing the parts such as netbook, Kinect, and Kobuki separately and following the documentation.
 
