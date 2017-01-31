@@ -21,8 +21,6 @@ The introduction of TurtleBot 2 has been a great success! Distributors around th
 ## Europe
  <h6><a href="http://www.active-robots.com/brands/turtlebot"><img title="Active Robots" src="{{ site.baseurl }}/assets/images/distributors/Active.jpg" alt="Active Robots" height="70" />Active Robots</a></h6>
  <br>
- <h6><a href="http://www.arobose.com/shop/"><img title="Arobose" src="{{ site.baseurl }}/assets/images/distributors/Arobose.png" alt="Arobose" height="70" />Arobose</a></h6>
- <br>
  <h6><a href="http://inrobotek.com.tr/Entry.aspx?MenuID=1"><img title="Innorobotek" src="{{ site.baseurl }}/assets/images/distributors/Innorobotek.png" alt="Innorobotek" width="275" height="70" />Innorobotek</a></h6>
  <br>
  <h6><a href="http://www.dronyx.com/"><img title="Dronyx" src="{{ site.baseurl }}/assets/images/distributors/dronyx.png" alt="Dronyx" width="180" height="70" />Dronyx</a></h6>

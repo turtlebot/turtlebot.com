@@ -8,8 +8,6 @@ show_in_nav: true
 
 # TurtleBot Manufacturers
 
-<h6><a href="http://www.arobose.com/shop/"><img title="Arobose" src="{{ site.baseurl }}/assets/images/distributors/Arobose.png" alt="Arobose" height="70" />Arobose</a></h6>
-<br>
 <h6><a href="http://www.clearpathrobotics.com/turtlebot_2"><img title="Clearpath Robotics" src="{{ site.baseurl }}/assets/images/distributors/Clearpath_Robotics.png" alt="Clearpath Robotics TurtleBot 2 Distrubutor" width="275" height="70" />Clearpath Robotics</span></a></h6>
 <br>
 <h6><a href="http://www.dronyx.com/"><img title="Dronyx" src="{{ site.baseurl }}/assets/images/distributors/dronyx.png" alt="Dronyx" width="180" height="70" />Dronyx</a></h6>
