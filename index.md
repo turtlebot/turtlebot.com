@@ -6,7 +6,7 @@ html_title: TurtleBot
 
 
 <img id="largeRobot" src="{{ site.baseurl }}/assets/images/turtlebot_3.png" alt="" width="480" height="270" />
-<img id="largeRobot" src="{{ site.baseurl }}/assets/images/menu.png" alt="" width="274" height="250" />
+<img id="largeRobot" src="{{ site.baseurl }}/assets/images/menu.png" alt="" width="285" height="260" />
 <br>
 
 # What is a TurtleBot?
