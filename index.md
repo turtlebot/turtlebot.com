@@ -28,5 +28,5 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 
 # TurtleBot Distributors
 
-(Comming soon)
+<script type="text/javascript" src="https://embed.github.com/view/geojson/turtlebot/map/master/Distributors.geojson"></script>
 <br>
