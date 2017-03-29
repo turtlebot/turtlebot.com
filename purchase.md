@@ -42,11 +42,13 @@ show_in_nav: true
 - <a href="http://www.sensorobots.net/">Sensorobot</a>
 - <a href="http://kobuki.yujinrobot.com/">Yujin Robot</a>
 
-# TB1 (Not Available)
+# TB1
+
+- Not Available
 
 # TurtleBot Distributors
 
-TurtleBot3 Distributor : RED (<img id="pin red" src="{{ site.baseurl }}/assets/images/pin_r.png" alt="" height="32px" />), TurtleBot2 Manufacturer/Distributor : BLUE (<img id="pin blue" src="{{ site.baseurl }}/assets/images/pin_b.png" alt="" height="32px" />)
+TurtleBot3 Distributor: RED (<img id="pin red" src="{{ site.baseurl }}/assets/images/pin_r.png" alt="" height="32px" />), TurtleBot2 Manufacturer/Distributor: BLUE (<img id="pin blue" src="{{ site.baseurl }}/assets/images/pin_b.png" alt="" height="32px" />)
 
 If you want to be added to the map, please visit <a href="{{ site.baseurl }}/partners">here</a> for partner registration.
 

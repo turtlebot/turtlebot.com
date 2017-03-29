@@ -22,3 +22,5 @@ For partnership, please fill out form below.
 - E-mail:
 - Address:
 - Remarks:
+
+(We're making transfer form. :) )

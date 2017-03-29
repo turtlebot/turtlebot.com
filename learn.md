@@ -7,7 +7,7 @@ show_in_nav: true
 
 # TurtleBot3
 
-<img id="tb3" src="{{ site.baseurl }}/assets/images/turtlebot_3.gif" alt="TurtleBot 3" style="width:100%; max-width:1042px;" />
+<img id="tb3" src="{{ site.baseurl }}/assets/images/turtlebot_3_models.png" alt="TurtleBot 3" style="width:50%; max-width:1042px;" />
 
 (Comming soon)
 
@@ -19,9 +19,15 @@ show_in_nav: true
 
 The complete TurtleBot 2 includes a Kobuki base, Microsoft XBOX Kinect, ROS compatible netbook, and factory calibrated gyro.
 
+## Build a TurtleBot 2 from Scratch
+
+You can build a TurtleBot from scratch by purchasing the parts such as netbook, Kinect, and Kobuki separately and following the documentation.
+
+[Download TurtleBot Documentation](http://download.ros.org/downloads/turtlebot/tb2_hardware_docs.tar.gz)
+
 ## Kits for TurtleBot 2
 
-There are several kits avaliable to create a Turtlebot. Check out the distributors' website to find out more.
+There are several kits avaliable to create a Turtlebot. Check out the <a href="{{ site.baseurl }}/partners">distributors' website</a> to find out more.
 
 ## TurtleBot 2e
 
@@ -30,11 +36,6 @@ The TurtleBot 2e is a new revision of the TurtleBot primarily defined by replaci
 Documentation of the TurtleBot2e can be found on github at [turtlebot/turtlebot2e]( https://github.com/turtlebot/turtlebot2e) and you can get it in pdf format [here](https://github.com/turtlebot/turtlebot2e/releases/download/0.0.1/turtlebot2e.pdf).
 
 Dabit Industries is offering the [TurtleBot2e](http://dabit.industries/collections/frontpage/products/turtlebot-2e) and the [TurtleBot2e Accessory Kit](http://dabit.industries/products/turtlebot-2e-sbc-accessories-kit).
-
-## Build TurtleBot 2 from Scratch
-You can build a TurtleBot from scratch by purchasing the parts such as netbook, Kinect, and Kobuki separately and following the documentation.
-
-[Download TurtleBot Documentation](http://download.ros.org/downloads/turtlebot/tb2_hardware_docs.tar.gz)
 
 ## Learn TurtleBot 2 and ROS
 
