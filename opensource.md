@@ -5,7 +5,6 @@ html_title: OpenSource - TurtleBot
 show_in_nav: true
 ---
 
-
 # Open Source
 
 ## Software
