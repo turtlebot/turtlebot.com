@@ -1,10 +1,20 @@
 ---
 layout: default
-title: FAQ
-html_title: FAQ - TurtleBot
+title: QnA
+html_title: QnA - TurtleBot
 show_in_nav: true
 ---
-# TurtleBot FAQ
+
+# Questions and Answers
+
+- Send all questions to [ROS Answers](http://answers.ros.org/questions/) with tag ``turtlebot``.
+- [ROS Answers](http://answers.ros.org/questions/) is a large knowledge base there of [TurtleBot Questions(taged turtlebot)](http://answers.ros.org/questions/scope:all/sort:activity-desc/tags:turtlebot/page:1/) on the site.
+- Send issues and bugs related source code to [TurtleBot3 GitHub](https://github.com/ROBOTIS-GIT/turtlebot3/issues).
+- Please use the [TurtleBot discourse forum](https://discourse.ros.org/c/turtlebot) to discuss of interest to large portions of the TurtleBot users community.
+
+- NOTE:: Please read before posting an questions: http://wiki.ros.org/Support
+
+# Frequently Asked Questions
 
 ## What is Open Source Hardware?
 

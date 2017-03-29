@@ -15,7 +15,7 @@ TurtleBot is a low-cost, personal robot kit with open-source software. TurtleBot
 For more information, we recommend an interview with TurtleBot creators, Tully Foote and Melonee Wise.
 [TurtleBot Inventors Tell Us Everything About the Robot](http://spectrum.ieee.org/automaton/robotics/diy/interview-turtlebot-inventors-tell-us-everything-about-the-robot) (IEEE Spectrum, By Evan Ackerman, 26 Mar 2013)
 
-<img id="rider" src="{{ site.baseurl }}/assets/images/turtlebot_rider.gif" alt="" width="260" height="290" />
+<img id="rider" src="{{ site.baseurl }}/assets/images/turtlebot_rider_with_oshw.gif" alt="" width="260" height="290" />
 <br>
 
 # History
