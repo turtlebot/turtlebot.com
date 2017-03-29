@@ -1,7 +1,7 @@
 ---
 layout: default
-title: OpenSource
-html_title: OpenSource - TurtleBot
+title: Open Source
+html_title: Open Source - TurtleBot
 show_in_nav: true
 ---
 
@@ -11,8 +11,8 @@ show_in_nav: true
 
 The software is provided in full open-source. The main license is [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
 
-- https://github.com/ROBOTIS-GIT/turtlebot3
-- https://github.com/ROBOTIS-GIT/OpenCR
+- TurtleBot 3 Software <https://github.com/ROBOTIS-GIT/turtlebot3>
+- OpenCR Firmware <https://github.com/ROBOTIS-GIT/OpenCR>
 
 ## Hardware
 
@@ -20,10 +20,10 @@ The components of Turtlebot3 as a default are the following: the Chassis, the Mo
 
 The CAD data is released to the Onshape, which is a full-cloud 3D CAD editor. Get access through a web browser by using the computer or even by the portable devices. Here allows the works of drawing, assemblying with the co-workers.
 
-- TurtleBot3 BURGER model: https://goo.gl/n3bGNr
-- TurtleBot3 WAFFLE model: https://goo.gl/wCDvVI
+- TurtleBot3 BURGER Model: <https://goo.gl/n3bGNr>
+- TurtleBot3 WAFFLE Model: <https://goo.gl/wCDvVI>
 
-- OpenCR: https://github.com/ROBOTIS-GIT/OpenCR-Hardware
+- OpenCR Hardware: <https://github.com/ROBOTIS-GIT/OpenCR-Hardware>
 
 
 # Open Source License

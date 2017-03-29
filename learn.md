@@ -7,9 +7,11 @@ show_in_nav: true
 
 # TurtleBot3
 
-<img id="tb3" src="{{ site.baseurl }}/assets/images/turtlebot_3_models.png" alt="TurtleBot 3" style="width:50%; max-width:1042px;" />
+<div style=" text-align:center ; padding:10px; ">
+  <img id="tb3" src="{{ site.baseurl }}/assets/images/turtlebot_3_models.png" alt="TurtleBot 3" style="width:70%; max-width:1042px;" />
+</div>
 
-(Comming soon)
+(comming soon)
 
 # TurtleBot 2
 

@@ -13,8 +13,8 @@ show_in_nav: true
 
 ## TB2 Distributor: North America
 
-- <a href="http://www.clearpathrobotics.com/turtlebot_2">Clearpath Robotics</span></a>
-- <a href="http://dabit.industries/">Dabit Indutries</span></a>
+- <a href="http://www.clearpathrobotics.com/turtlebot_2">Clearpath Robotics</a>
+- <a href="http://dabit.industries/">Dabit Indutries</a>
 
 ## TB2 Distributor: Europe
 
@@ -33,7 +33,7 @@ show_in_nav: true
 
 ## TB2 Manufacturer
 
-- <a href="http://www.clearpathrobotics.com/turtlebot_2">Clearpath Robotics</span></a>
+- <a href="http://www.clearpathrobotics.com/turtlebot_2">Clearpath Robotics</a>
 - <a href="http://www.dronyx.com/">Dronyx</a>
 - <a href="http://www.gaitech.hk/">GaiTech</a>
 - <a href="http://www.gilbo.com.tr/">Robot Sepeti</a>
