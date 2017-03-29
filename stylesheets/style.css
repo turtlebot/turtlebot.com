@@ -50,9 +50,23 @@ ul{
 }
 
 /* Hack to push top of frame below nav */
-.content-container.col-md-9 {
+.content-container {
   margin-top: 100px;
 }
+.content-container img {width:100%; }
+
+
+.content-container .l_box {float:left; width:60%; margin:0; padding:0; }
+.content-container .r_box {float:left; width:40%; margin:0; padding:0; }
+
+.content-container .quick_menu {font-weight:bold; font-size:1.5em;}
+.content-container .quick_menu .txt { position: absolute; padding:30px; color:#ffffff; }
+
+.content-container ul {margin:0 ; padding:10px; }
+.content-container li {float:left; list-style:none; width:50%; }
+
+
+
 
 /* Header and Navigation */
 header{
@@ -186,12 +200,6 @@ footer img{
 
 
 
-
-
-
-
-
-
 .ir { display: block; text-indent: -999em; overflow: hidden; background-repeat: no-repeat; text-align: left; direction: ltr; }
 .hidden { display: none; visibility: hidden; }
 .visuallyhidden { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
@@ -208,6 +216,15 @@ footer img{
 }
 
 @media all and (orientation:landscape) {
+
+
+}
+@media screen and (max-width:768px) {
+
+
+	.content-container .l_box { width:100%; }
+	.content-container .r_box  { width:100%; }
+	.content-container li { width:25%; }
 
 }
 
