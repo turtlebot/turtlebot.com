@@ -12,7 +12,7 @@ show_in_nav: true
 - Send issues and bugs related source code to [TurtleBot3 GitHub](https://github.com/ROBOTIS-GIT/turtlebot3/issues).
 - Please use the [TurtleBot discourse forum](https://discourse.ros.org/c/turtlebot) to discuss of interest to large portions of the TurtleBot users community.
 
-- NOTE:: Please read before posting an questions: http://wiki.ros.org/Support
+- NOTE:: Please read before posting an questions: <http://wiki.ros.org/Support>
 
 # Frequently Asked Questions
 
@@ -35,10 +35,10 @@ This site is a resource created by and for the TurtleBot community. It's a porta
 TurtleBot is about getting hackers involved in robotics. And hackers want maximum control over their hardware and software. Given the plans, parts list, assembly instructions, and links to suppliers, you have the ability to do whatever you want with TurtleBot. You can use components that you already have, substitute similar components, and generally mix and match to order only what you need to build exactly what you want. Of course, any component changes may entail other, as-yet-undocumented modifications to the design. Over time the community will contribute to a common body of documentation on their own TurtleBot variations, at turtlebot.com.
 
 ## I'd like to supply parts for TurtleBots; how can I participate?
-Great! More suppliers of TurtleBot parts means more choice for the TurtleBot community. Please visit [this page]({{ site.baseurl }}/become-distributor).
+Great! More suppliers of TurtleBot parts means more choice for the TurtleBot community. Please visit [this page]({{ site.baseurl }}/partners).
 
 ## What license will be applied to the TurtleBot documentation?
 Just as for <a class="http" href="http://www.ros.org/wiki/DevelopersGuide#Licensing">ROS software</a>, we prefer permissive licenses that facilitate commercial use of code. The preferred license for TurtleBot hardware documentation is the [FreeBSD Documentation License](http://www.freebsd.org/copyright/freebsd-doc-license.html).
 
 ## Can I apply the TurtleBot name to my modification of your design, or my own similar robot design?
-<p>The Open Source Robotics Foundation holds the TurtleBot trademark with the United States Patent and Trademark Office. If you want to use the TurtleBot name or mark, please send an email to [turtlebot@osrfoundation.org](mailto:turtlebot@osrfoundation.org).
+The Open Source Robotics Foundation holds the TurtleBot trademark with the United States Patent and Trademark Office. If you want to use the TurtleBot name or mark, please send an email to <mailto:turtlebot@osrfoundation.org>.

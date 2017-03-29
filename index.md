@@ -34,7 +34,7 @@ html_title: TurtleBot
 # History
 
 <div style=" text-align:center ; padding:10px; ">
-  <img id="rider" src="{{ site.baseurl }}/assets/images/turtlebot_history.gif" alt="" style="width:100%; max-width:1042px;" />
+  <img id="history" src="{{ site.baseurl }}/assets/images/turtlebot_history.gif" alt="TurtleBot History" style="width:100%; max-width:1042px;" />
 </div>
 
 # Collaboration
@@ -43,6 +43,8 @@ html_title: TurtleBot
 
 # TurtleBot Distributors
 
-The introduction of TurtleBot3 has been a great success! Distributors around the world are lined up to serve all your TurtleBot needs.
+TurtleBot3 Distributor : RED (<img id="pin red" src="{{ site.baseurl }}/assets/images/pin_r.png" alt="" height="32px" />), TurtleBot2 Manufacturer/Distributor : BLUE (<img id="pin blue" src="{{ site.baseurl }}/assets/images/pin_b.png" alt="" height="32px" />)
+
+If you want to be added to the map, please visit <a href="{{ site.baseurl }}/partners">here</a> for partner registration.
 
 <script type="text/javascript" src="https://embed.github.com/view/geojson/turtlebot/map/master/Distributors.geojson"></script>

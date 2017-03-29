@@ -5,45 +5,15 @@ html_title: Learn - TurtleBot
 show_in_nav: true
 ---
 
-# Learn TurtleBot and ROS
+# TurtleBot3
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ni49uYq4cF4" frameborder="0" allowfullscreen></iframe>
+<img id="tb3" src="{{ site.baseurl }}/assets/images/turtlebot_3.gif" alt="TurtleBot 3" style="width:100%; max-width:1042px;" />
 
-- Learning with the TurtleBot
-- CoffeeBot Challenge
-- Learning with the TurtleBot in Simulation
-- Challenge in Simulation
+(Comming soon)
 
-- Link: http://learn.turtlebot.com/
+# TurtleBot 2
 
-# The Construct
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/mqz0r1UawuA" frameborder="0" allowfullscreen></iframe>
-
-- A platform to learn, program and simulate robots
-- The Construct SIM
-- Robot Ignite Academy
-- Robository
-- Link: http://www.theconstructsim.com/
-
-# Official TurtleBot Tutorial from ROS Wiki
-
-- Link: http://wiki.ros.org/Robots/TurtleBot
-
-# TurtleBot Tutorial from Clearpath Robotics
-
-- Link: https://www.clearpathrobotics.com/assets/guides/turtlebot/index.html
-
-# TurtleBot Tutorial from Gaitech
-
-- Link: http://edu.gaitech.hk/turtlebot/turtlebot-tutorials.html
-
-# TurtleBot Tutorial from IEEE Spectrum
-
-- Link: http://spectrum.ieee.org/tag/turtlebot%20tutorial
-
-
-# Build a TurtleBot 2
+## Build a TurtleBot 2
 
 <img style="float: right;" title="TurtleBot 2" src="{{ site.baseurl }}/assets/images/turtlebot_2_lg.png" alt="TurtleBot 2" width="269" height="358" />
 
@@ -52,8 +22,6 @@ The complete TurtleBot 2 includes a Kobuki base, Microsoft XBOX Kinect, ROS comp
 ## Kits for TurtleBot 2
 
 There are several kits avaliable to create a Turtlebot. Check out the distributors' website to find out more.
-
-[List of Distributors]({{ site.baseurl }}/distributors)
 
 ## TurtleBot 2e
 
@@ -68,7 +36,44 @@ You can build a TurtleBot from scratch by purchasing the parts such as netbook, 
 
 [Download TurtleBot Documentation](http://download.ros.org/downloads/turtlebot/tb2_hardware_docs.tar.gz)
 
+## Learn TurtleBot 2 and ROS
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ni49uYq4cF4" frameborder="0" allowfullscreen></iframe>
+
+- Learning with the TurtleBot
+- CoffeeBot Challenge
+- Learning with the TurtleBot in Simulation
+- Challenge in Simulation
+
+- Link: <http://learn.turtlebot.com/>
+
+## The Construct
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/mqz0r1UawuA" frameborder="0" allowfullscreen></iframe>
+
+- A platform to learn, program and simulate robots
+- The Construct SIM
+- Robot Ignite Academy
+- Robository
+- Link: http://www.theconstructsim.com/
+
+## TurtleBot Tutorial from Clearpath Robotics
+
+- Link: https://www.clearpathrobotics.com/assets/guides/turtlebot/index.html
+
+## TurtleBot Tutorial from Gaitech
+
+- Link: http://edu.gaitech.hk/turtlebot/turtlebot-tutorials.html
+
+## TurtleBot Tutorial from IEEE Spectrum
+
+- Link: http://spectrum.ieee.org/tag/turtlebot%20tutorial
+
 # TurtleBot 1
 Do you have an iRobot Create that you would like to turn into a TurtleBot? Check out the TurtleBot 1 documentation.
 
 [Download TurtleBot 1 Documentation](http://download.ros.org/downloads/turtlebot/TurtleBot-Hardware-2011-07-23.zip)
+
+# Official TurtleBot Tutorial from ROS Wiki
+
+- Link: <http://wiki.ros.org/Robots/TurtleBot>

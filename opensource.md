@@ -30,7 +30,7 @@ The CAD data is released to the Onshape, which is a full-cloud 3D CAD editor. Ge
 
 ## Software License
 
-Main software is released under the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0). However, some of the sources are under the licenses 3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) / [GPLv3](https://opensource.org/licenses/GPL-3.0).
+Main software is released under the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0). However, some of the sources are under the licenses [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) / [GPLv3](https://opensource.org/licenses/GPL-3.0).
 
 ## Hardware License
 
