@@ -39,7 +39,9 @@ html_title: TurtleBot
 
 # Collaboration
 
-(Comming soon)
+- OSRF, ROBOTIS, Intel, Onshape, OROCA, OSU
+
+(comming soon / logos)
 
 # TurtleBot Distributors
 
