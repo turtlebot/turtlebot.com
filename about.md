@@ -7,8 +7,9 @@ show_in_nav: true
 
 # What is TurtleBot?
 
-<img id="rider" src="{{ site.baseurl }}/assets/images/turtlebot_rider.jpg" alt=""/>
-<br>
+<div style=" text-align:center ; padding:10px; ">
+  <img id="rider" src="{{ site.baseurl }}/assets/images/turtlebot_rider.jpg" alt="" style="width:50%; max-width:1042px;"/>
+</div>
 
 TurtleBot is a low-cost, personal robot kit with open-source software. TurtleBot was created at Willow Garage by Melonee Wise and Tully Foote in November 2010. With TurtleBot, you’ll be able to build a robot that can drive around your house, see in 3D, and have enough horsepower to create exciting applications.
 
@@ -22,16 +23,17 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 
 # Core Technology
 
-<img id="rider" src="{{ site.baseurl }}/assets/images/robot_comic_navigation.png" alt=""/>
-<br>
-
+<div style=" text-align:center ; padding:10px; ">
+  <img id="rider" src="{{ site.baseurl }}/assets/images/robot_comic_navigation.png" alt="" style="width:50%; max-width:1042px;"/>
+</div>
 
 The TurtleBot's core technology is SLAM and Navigation, making it suitable for home service robots. The TurtleBot can run SLAM(simultaneous localization and mapping) algorithms to build a map and can drive around your room. Also, it can be controlled remotely from a laptop, joypad or Android-based smart phone. The TurtleBot can also follow a person's legs as they walk in a room. Also included are the ROS arm navigation capabilities, an arm attachment that has been developed for manipulating objects.
 
 # History
 
-<img id="rider" src="{{ site.baseurl }}/assets/images/turtlebot_history.gif" alt=""/>
-<br>
+<div style=" text-align:center ; padding:10px; ">
+  <img id="rider" src="{{ site.baseurl }}/assets/images/turtlebot_history.gif" alt="" style="width:50%; max-width:1042px;"/>
+</div>
 
 ## TurtleBot1
 
@@ -50,4 +52,4 @@ TurtleBot3 is made up of modular plates that users can customize the shape. Avai
 
 # TurtleBot From Wikipedia
 
-https://en.wikipedia.org/wiki/Turtlebot
+- [https://en.wikipedia.org/wiki/Turtlebot](https://en.wikipedia.org/wiki/Turtlebot)
