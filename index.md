@@ -18,21 +18,23 @@ html_title: TurtleBot
   </div>
 </div>
 
-<div class="l_box">
-# What is a TurtleBot?
-TurtleBot is a low-cost, personal robot kit with open-source software. TurtleBot was created at Willow Garage by Melonee Wise and Tully Foote in November 2010. With TurtleBot, you’ll be able to build a robot that can drive around your house, see in 3D, and have enough horsepower to create exciting applications.
+<div class="row content-container whatis">
+  <div class="l_box">
+    <h1 id="what-is-a-turtlebot">What is a TurtleBot?</h1>
+    <p>TurtleBot is a low-cost, personal robot kit with open-source software. TurtleBot was created at Willow Garage by Melonee Wise and Tully Foote in November 2010. With TurtleBot, you’ll be able to build a robot that can drive around your house, see in 3D, and have enough horsepower to create exciting applications.</p>
 
-For more information, we recommend an interview with TurtleBot creators, Tully Foote and Melonee Wise.
-[TurtleBot Inventors Tell Us Everything About the Robot](http://spectrum.ieee.org/automaton/robotics/diy/interview-turtlebot-inventors-tell-us-everything-about-the-robot) (IEEE Spectrum, By Evan Ackerman, 26 Mar 2013)
-</div>
-<div class="r_box">
-  <img id="rider" src="{{ site.baseurl }}/assets/images/turtlebot_rider_with_oshw.gif" alt="" />
+    <p>For more information, we recommend an interview with TurtleBot creators, Tully Foote and Melonee Wise.
+    <a href="http://spectrum.ieee.org/automaton/robotics/diy/interview-turtlebot-inventors-tell-us-everything-about-the-robot">TurtleBot Inventors Tell Us Everything About the Robot</a> (IEEE Spectrum, By Evan Ackerman, 26 Mar 2013)</p>
+  </div>
+  <div class="r_box">
+    <img id="rider" src="./assets/images/turtlebot_rider_with_oshw.gif" alt="" />
+  </div>
 </div>
 
 # History
 
 <div style=" text-align:center ; padding:10px; ">
-  <img id="rider" src="{{ site.baseurl }}/assets/images/turtlebot_history.gif" alt="" style="max-width:1042px;" />
+  <img id="rider" src="{{ site.baseurl }}/assets/images/turtlebot_history.gif" alt="" style="width:100%; max-width:1042px;" />
 </div>
 
 # Collaboration
