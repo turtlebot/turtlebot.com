@@ -19,14 +19,13 @@ show_in_nav: true
 ## TB2 Distributor: Europe
 
 - <a href="http://www.active-robots.com/brands/turtlebot">Active Robots</a>
-- <a href="http://inrobotek.com.tr/Entry.aspx?MenuID=1">Innorobotek</a>
+- <a href="http://inrobotek.com.tr/ProductWithTab.aspx?MenuID=28">Innorobotek</a>
 - <a href="http://www.dronyx.com/">Dronyx</a>
-- <a href="http://robotnik.es/en">Robotnik</a>
+- <a href="http://www.robotnik.eu/mobile-robots/turtlebot-ros/">Robotnik</a>
 - <a href="http://www.robotsepeti.com/arama/turtlebot">Robot Sepeti</a>
 
 ## TB2 Distributor: Asia
 
-- <a href="http://www.lattel.my/">Lattel</a>
 - <a href="http://www.gaitech.hk/">GaiTech</a>
 - <a href="http://www.sensorobots.net/">Sensorobot</a>
 - <a href="http://garage.yujinrobot.com/">Yujin Robot</a>
