@@ -17,7 +17,7 @@ show_in_nav: true
 
 ## Build a TurtleBot 2
 
-<img title="TurtleBot 2" src="{{ site.baseurl }}/assets/images/turtlebot_2_lg.png" alt="TurtleBot 2" style="width:80%; max-width:1042px; float: right;" />
+<img title="TurtleBot 2" src="{{ site.baseurl }}/assets/images/turtlebot_2_lg.png" alt="TurtleBot 2" style="width:20%; max-width:1042px; float: right;" />
 
 The complete TurtleBot 2 includes a Kobuki base, Microsoft XBOX Kinect, ROS compatible netbook, and factory calibrated gyro.
 
