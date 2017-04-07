@@ -62,15 +62,15 @@ Dabit Industries is offering the [TurtleBot2e](http://dabit.industries/collectio
 
 ## TurtleBot Tutorial from Clearpath Robotics
 
-- Link: https://www.clearpathrobotics.com/assets/guides/turtlebot/index.html
+- Link: [TurtleBot Tutorial(Clearpath)](https://www.clearpathrobotics.com/assets/guides/turtlebot/index.html)
 
 ## TurtleBot Tutorial from Gaitech
 
-- Link: http://edu.gaitech.hk/turtlebot/turtlebot-tutorials.html
+- Link: [TurtleBot Tutoria(Gaitech)](http://edu.gaitech.hk/turtlebot/turtlebot-tutorials.html)
 
 ## TurtleBot Tutorial from IEEE Spectrum
 
-- Link: http://spectrum.ieee.org/tag/turtlebot%20tutorial
+- Link: [TurtleBot Tutoria(IEEE Spectrum)](http://spectrum.ieee.org/tag/turtlebot%20tutorial)
 
 # TurtleBot 1
 Do you have an iRobot Create that you would like to turn into a TurtleBot? Check out the TurtleBot 1 documentation.
