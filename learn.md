@@ -8,7 +8,7 @@ show_in_nav: true
 # TurtleBot3
 
 <div style=" text-align:center ; padding:10px; ">
-  <img id="tb3" src="{{ site.baseurl }}/assets/images/turtlebot_3_models.png" alt="TurtleBot 3" style="width:50%; max-width:1042px;" />
+  <img id="tb3" src="{{ site.baseurl }}/assets/images/turtlebot_3_models.png" alt="TurtleBot 3" style="width:80%; max-width:1042px;" />
 </div>
 
 (comming soon)
@@ -17,7 +17,7 @@ show_in_nav: true
 
 ## Build a TurtleBot 2
 
-<img style="float: right;" title="TurtleBot 2" src="{{ site.baseurl }}/assets/images/turtlebot_2_lg.png" alt="TurtleBot 2" width="269" height="358" />
+<img title="TurtleBot 2" src="{{ site.baseurl }}/assets/images/turtlebot_2_lg.png" alt="TurtleBot 2" style="width:80%; max-width:1042px; float: right;" />
 
 The complete TurtleBot 2 includes a Kobuki base, Microsoft XBOX Kinect, ROS compatible netbook, and factory calibrated gyro.
 
