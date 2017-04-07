@@ -49,4 +49,4 @@ TurtleBot3 Distributor : RED (<img id="pin red" src="{{ site.baseurl }}/assets/i
 
 If you want to be added to the map, please visit <a href="{{ site.baseurl }}/partners">here</a> for partner registration.
 
-<script type="text/javascript" src="https://embed.github.com/view/geojson/turtlebot/map/master/Distributors.geojson" width="100%" height="420"></script>
+<script type="text/javascript" src="https://embed.github.com/view/geojson/turtlebot/map/master/Distributors.geojson?height=420&width=100%"></script>
