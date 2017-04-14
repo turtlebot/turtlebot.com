@@ -31,19 +31,11 @@ html_title: TurtleBot
   </div>
 </div>
 
-# History
+# TurtleBot History
 
 <div style=" text-align:center ; padding:10px; ">
   <img id="history" src="{{ site.baseurl }}/assets/images/turtlebot_history.gif" alt="TurtleBot History" style="width:100%; max-width:1042px;" />
 </div>
-
-# Collaboration
-
-<div style=" text-align:center ; padding:10px; ">
-  <img id="collaboration" src="{{ site.baseurl }}/assets/images/collaboration.png" alt="TurtleBot3 Collaboration" style="width:100%; max-width:1042px;" />
-</div>
-
-- OSRF, ROBOTIS, Intel, Onshape, OROCA, OSU (comming soon / logos)
 
 # TurtleBot Distributors
 
@@ -51,4 +43,12 @@ TurtleBot3 Distributor : RED (<img id="pin red" src="{{ site.baseurl }}/assets/i
 
 If you want to be added to the map, please visit <a href="{{ site.baseurl }}/partners">here</a> for partner registration.
 
-<script type="text/javascript" src="https://embed.githubusercontent.com/view/geojson/turtlebot/map/master/Distributors.geojson"></script>
+<script src="https://embed.github.com/view/geojson/turtlebot/map/master/Distributors.geojson"></script>
+
+# TurtleBot Collaboration
+
+<div style=" text-align:center ; padding:10px; ">
+  <img id="collaboration" src="{{ site.baseurl }}/assets/images/collaboration.png" alt="TurtleBot3 Collaboration" style="width:100%; max-width:1042px;" />
+</div>
+
+- OSRF, ROBOTIS, Intel, Onshape, OROCA, OSU (comming soon / logos)
