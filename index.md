@@ -39,6 +39,10 @@ html_title: TurtleBot
 
 # Collaboration
 
+<div style=" text-align:center ; padding:10px; ">
+  <img id="collaboration" src="{{ site.baseurl }}/assets/images/collaboration.png" alt="TurtleBot3 Collaboration" style="width:100%; max-width:1042px;" />
+</div>
+
 - OSRF, ROBOTIS, Intel, Onshape, OROCA, OSU
 
 (comming soon / logos)
