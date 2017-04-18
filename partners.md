@@ -5,7 +5,7 @@ html_title: Partners - TurtleBot
 show_in_nav: true
 ---
 
-# TurtleBot: Collaboration project
+# TurtleBot3 Collaboration project
 
 TurtleBot3 is a collaboration project among [OSRF](https://www.osrfoundation.org/), [ROBOTIS](http://www.robotis.com/), and more partners like [Intel](http://www.intel.com), [Onshape](https://www.onshape.com).
 
@@ -68,3 +68,9 @@ For partnership, please fill out form below.
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[3]='MMERGE3';ftypes[3]='text';fnames[1]='FNAME';ftypes[1]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[5]='MMERGE5';ftypes[5]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[4]='MMERGE4';ftypes[4]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+
+# TurtleBot2
+
+TurtleBot2 manufacturing and distribution is managed by OSRF and fulfilled through a network of partners listed [here]({{ site.baseurl }}/purchase).
+
+If you are interested in becoming a TurtleBot2 distributor please contact OSRF at turtlebot@osrfoundation.org 
