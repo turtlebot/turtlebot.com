@@ -1,7 +1,7 @@
 ---
 layout: default
-title: QnA
-html_title: QnA - TurtleBot
+title: FAQ
+html_title: FAQ - TurtleBot
 show_in_nav: true
 ---
 
