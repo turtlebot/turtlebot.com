@@ -49,8 +49,17 @@ The TurtleBot2 is the 2nd generation of the TurtleBot following within the [REP 
 <li>Demo applications</li>
 </ul>
 </div>
+<div id="opensource" class="columns3">
+<h3>Open Source</h3>
+<p>TurtleBot is an open source hardware project as described by the <a href="http://freedomdefined.org/OSHW">Open Source Hardware Statement of Principles and Definition v1.0.</a></p>
+<p>It is released under the <a href="http://www.freebsd.org/copyright/freebsd-doc-license.html">FreeBSD Documentation License</a>.  See the <a href="{{site.baseurl}}/build">documentation</a> page to download the designs. </p>
+<p><br /><img src="{{ site.baseurl }}/assets/images/oshw-logo.png" alt="" /></p>
+</div>
+</div>
 
-### TurtleBot 2e
+
+
+## TurtleBot 2e
 
 The TurtleBot 2e is a new revision of the TurtleBot primarily defined by replacing the netbook with a single board computer
 such as the 96 Boards CE computer, the DB410c.
