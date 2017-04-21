@@ -18,6 +18,8 @@ html_title: TurtleBot
   </div>
 </div>
 
+<br>
+
 <div class="row content-container whatis">
   <div class="l_box">
     <h1 id="what-is-a-turtlebot">What is a TurtleBot?</h1>
