@@ -32,7 +32,7 @@ The TurtleBot's core technology is SLAM and Navigation, making it suitable for h
 # History
 
 <div style=" text-align:center ; padding:10px; ">
-  <img id="rider" src="{{ site.baseurl }}/assets/images/turtlebot_history.gif" alt="" style="width:100%; max-width:1042px;"/>
+  <img id="rider" src="{{ site.baseurl }}/assets/images/turtlebot_history.png" alt="" style="width:100%; max-width:1042px;"/>
 </div>
 
 ## TurtleBot1
