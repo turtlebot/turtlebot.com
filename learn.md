@@ -8,7 +8,7 @@ show_in_nav: true
 # TurtleBot3
 
 <div style=" text-align:center ; padding:10px; ">
-  <img id="tb3" src="{{ site.baseurl }}/assets/images/turtlebot_3_models.png" alt="TurtleBot 3" style="width:80%; max-width:1042px;" />
+  <img id="tb3" src="{{ site.baseurl }}/assets/images/turtlebot3_models.png" alt="TurtleBot 3" style="width:80%; max-width:1042px;" />
 </div>
 
 (comming soon)

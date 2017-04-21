@@ -6,7 +6,7 @@ html_title: TurtleBot
 
 <div class="row content-container visual_line">
   <div class="l_box">
-    <img  id="largeRobot"  src="{{ site.baseurl }}/assets/images/turtlebot_3.gif" alt=""  />
+    <img  id="largeRobot"  src="{{ site.baseurl }}/assets/images/turtlebot3_with_logo.png" alt=""  />
   </div>
   <div class="r_box quick_menu">
     <ul>
@@ -34,8 +34,9 @@ html_title: TurtleBot
 # TurtleBot History
 
 <div style=" text-align:center ; padding:10px; ">
-  <img id="history" src="{{ site.baseurl }}/assets/images/turtlebot_history.gif" alt="TurtleBot History" style="width:100%; max-width:1042px;" />
+  <img id="history" src="{{ site.baseurl }}/assets/images/turtlebot_history.png" alt="TurtleBot History" style="width:100%; max-width:1042px;" />
 </div>
+<br>
 
 # TurtleBot Distributors
 
@@ -44,7 +45,7 @@ TurtleBot3 Distributor : RED (<img id="pin red" src="{{ site.baseurl }}/assets/i
 If you want to be added to the map, please visit <a href="{{ site.baseurl }}/partners">here</a> for partner registration.
 
 <script type="text/javascript" src="https://embed.githubusercontent.com/view/geojson/turtlebot/map/master/Distributors.geojson"></script>
-
+<br>
 
 # TurtleBot Collaboration
 
