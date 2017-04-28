@@ -25,7 +25,7 @@ show_in_nav: true
 
   <table class="table table-bordered early-bird">
     <tr>
-      <td class="td_l">Original Price: Burger USD 549.00 | Waffle USD 1,799.00</td>
+      <td colspan='4' class="td_l">Original Price: Burger USD 549.00 | Waffle USD 1,799.00</td>
     </tr>
     <tr>
       <th></th>
