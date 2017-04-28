@@ -5,16 +5,17 @@ html_title: Where to buy - TurtleBot
 show_in_nav: true
 ---
 
-<div class="content-container col-md-9" style="background-color:#e2e4ef;">
+<style>
+  .event_box { background-color:#e2e4ef; padding:20px; margin-bottom:40px; }
+  .btn_box { padding:10px 60px; background-color:#5061bf; color:#ffffff; font-weight:bold; font-size:1.2em; border:0px; margin-bottom:20px;  }
+  .early-bird  {background-color:#ffffff; margin-bottom: 0px; }
+  .early-bird th {text-align:center; }
+  .early-bird td {text-align:right; }
+  .early-bird .td_l {text-align:left; }
+  .early-bird .td_c {text-align:center; }
+</style>
 
-  <style>
-    .btn_box { padding:10px 60px; background-color:#5061bf; color:#ffffff; font-weight:bold; font-size:1.2em; border:0px; margin-bottom:20px;  }
-    .early-bird  {background-color:#ffffff; margin-bottom: 0px; }
-    .early-bird th {text-align:center; }
-    .early-bird td {text-align:right; }
-    .early-bird .td_l {text-align:left; }
-    .early-bird .td_c {text-align:center; }
-  </style>
+<div class="event_box">
 
   <h1 id="tb3-distributors"  style="padding:15px 0;">TB3 Early-Bird Offer</h1>
 
