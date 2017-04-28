@@ -25,7 +25,7 @@ show_in_nav: true
 
   <table class="table table-bordered early-bird">
     <tr>
-      <td colspan=4 class='td_l'><i>Original Price: Burger USD 549.00 /  Waffle USD 1,799.00</i></td>
+      <td colspan=4 class='td_l'><i>Original Price: Burger USD 549.00 | Waffle USD 1,799.00</i></td>
     </tr>
 
     <tr>
@@ -52,10 +52,10 @@ show_in_nav: true
 
   <p style="line-height:1.6em;">
     <div style="background-color:#7a87d1; padding:5px 10px; color:#ffffff;width:140px; margin:5px 0; ">Shopping Guide</div>
-    1. Click the 'BUY' button above and submit a purchase order. </br>
-    2. A quotation will be sent from the nearest distributor from your location. </br>
-    3. Shipping starts from June 5th and ETA may vary by region. </br>
-    4. If you have any questions, contact ROBOTIS at <span style="color:#7a87d1;">contactus@robotis.com </span></br>
+    1. Click the 'BUY' button above and submit a purchase order. <br/>
+    2. A quotation will be sent from the nearest distributor from your location. <br/>
+    3. Shipping starts from June 5th and ETA may vary by region. <br/>
+    4. If you have any questions, contact ROBOTIS at <span style="color:#7a87d1;">contactus@robotis.com </span><br/>
     *This offer is valid for academic users only. For distributorship, please go to <a href="http://www.turtlebot.com/partners/" target="_blank">www.turtlebot.com/partners/</a>
   </p>
 
