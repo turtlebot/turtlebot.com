@@ -51,8 +51,50 @@ If you want to be added to the map, please visit <a href="{{ site.baseurl }}/par
 
 # TurtleBot Collaboration
 
+## TurtleBot3
+
 <div style=" text-align:center ; padding:10px; ">
   <img id="collaboration" src="{{ site.baseurl }}/assets/images/collaboration.png" alt="TurtleBot3 Collaboration" style="width:100%; max-width:1042px;" />
 </div>
 
-- OSRF, ROBOTIS, Intel, Onshape, OROCA, OSU (comming soon / logos)
+## TurtleBot2
+
+<div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:center;">
+<div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+<a href="http://www.active-robots.com/brands/turtlebot"><img title="Active Robots" src="{{ site.baseurl }}/assets/images/distributors/Active.jpg" alt="Active Robots" width="120px"/></a>
+</div>
+<div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+<a href="http://inrobotek.com.tr/Entry.aspx?MenuID=1"><img title="Innorobotek" src="{{ site.baseurl }}/assets/images/distributors/Innorobotek.png" alt="Innorobotek" width="120px"/></a>
+</div>
+<div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+<a href="http://www.dronyx.com/"><img title="Dronyx" src="{{ site.baseurl }}/assets/images/distributors/dronyx.png" alt="Dronyx" width="120px"/></a>
+</div>
+
+<div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+<a href="http://robotnik.es/en"><img title="Robotnik" src="{{ site.baseurl }}/assets/images/distributors/Robotnik.png" alt="Robotnik" width="120px" /></a>
+</div>
+
+<div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+<a href="http://www.robotsepeti.com/arama/turtlebot"><img title="Robot Sepeti" src="{{ site.baseurl }}/assets/images/distributors/Robot_Sepeti_Gilbo.png" alt="Robot Sepeti" width="120px" /></a>
+</div>
+
+
+<div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+<a href="http://www.lattel.my/"><img title="Lattel" src="{{ site.baseurl }}/assets/images/distributors/Lattel.png" alt="Lattel" width="120px" /></a>
+</div>
+
+<div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+<a href="http://www.gaitech.hk/"><img title="GaiTech" src="{{ site.baseurl }}/assets/images/distributors/Gaitech.png" alt="GaiTech" width="120"/>GaiTech</a>
+</div>
+
+<div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+<a href="http://www.sensorobots.net/"><img title="Sensorobot" src="{{ site.baseurl }}/assets/images/distributors/sensorobots.jpg" alt="Sensorobot" width="120px"/></a>
+</div>
+
+
+<div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+<a href="http://garage.yujinrobot.com/"><img title="Yujin" src="{{ site.baseurl }}/assets/images/distributors/Yujin.png" alt="Yujin" width="120" /></a>
+</div>
+
+
+</div>
