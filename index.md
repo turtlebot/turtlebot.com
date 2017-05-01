@@ -65,11 +65,11 @@ If you want to be added to the map, please visit <a href="{{ site.baseurl }}/par
 </div>
 
 <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-<a href="http://www.clearpathrobotics.com/turtlebot_2"><img title="Clearpath Robotics" src="{{ site.baseurl }}/assets/images/distributors/Clearpath_Robotics.png" alt="Clearpath Robotics TurtleBot 2 Distrubutor" width="120px" /></a>
+<a href="http://www.clearpathrobotics.com/turtlebot_2"><img title="Clearpath Robotics" src="{{ site.baseurl }}/assets/images/distributors/Clearpath_Robotics.png" alt="Clearpath Robotics" width="120px" /></a>
 </div>
 
 <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-<a href="http://dabit.industries/"><img title="Dabit Industries" src="{{ site.baseurl }}/assets/images/distributors/dabit.png" alt="Dabit Industries TurtleBot 2 Distrubutor" width="120px/></a>
+<a href="http://dabit.industries/"><img title="Dabit Industries" src="{{ site.baseurl }}/assets/images/distributors/dabit.png" alt="Dabit Industries" width="120px"/></a>
 </div>
 
 <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
