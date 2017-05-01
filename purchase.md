@@ -60,7 +60,7 @@ show_in_nav: true
 
 </div>
 
-# TB3 Distributors
+# TurtleBot3 Distributors
 
 ## World wide
 - <a href="http://en.robotis.com/">ROBOTIS CO., LTD.</a>
@@ -73,33 +73,33 @@ show_in_nav: true
 - <a href="http://jp.robotis.com/">ROBOTIS Japan</a>
 - <a href="http://cn.robotis.com/">ROBOTIS China</a>
 
-# TB2 Manufacturer/Distributor
+# TurtleBot2 Distributors
 
-## TB2 Distributor: North America
+## North America
 
-- <a href="http://www.clearpathrobotics.com/turtlebot_2">Clearpath Robotics</a>
-- <a href="http://dabit.industries/">Dabit Indutries</a>
+- [Clearpath Robotics](http://www.clearpathrobotics.com/turtlebot_2)
+- [Dabit Indutries](http://dabit.industries/)
 
-## TB2 Distributor: Europe
+## Europe
 
-- <a href="http://www.active-robots.com/brands/turtlebot">Active Robots</a>
-- <a href="http://inrobotek.com.tr/ProductWithTab.aspx?MenuID=28">Innorobotek</a>
-- <a href="http://www.dronyx.com/">Dronyx</a>
-- <a href="http://www.robotnik.eu/mobile-robots/turtlebot-ros/">Robotnik</a>
-- <a href="http://www.robotsepeti.com/arama/turtlebot">Robot Sepeti</a>
+- [Active Robots](http://www.active-robots.com/brands/turtlebot)
+- [Innorobotek](http://inrobotek.com.tr/ProductWithTab.aspx?MenuID=28)
+- [Dronyx](http://www.dronyx.com/)
+- [Robotnik](http://www.robotnik.eu/mobile-robots/turtlebot-ros/)
+- [Robot Sepeti](http://www.robotsepeti.com/arama/turtlebot)
 
-## TB2 Distributor: Asia
+## Asia
 
-- <a href="http://www.gaitech.hk/">GaiTech</a>
-- <a href="http://www.lattel.my/">Lattel</a>
-- <a href="http://www.sensorobots.net/">Sensorobot</a>
-- <a href="http://garage.yujinrobot.com/">Yujin Robot</a>
+- [Gaitech](http://www.gaitech.hk/)
+- [Lattel](http://www.lattel.my/)
+- [Sensorobot](http://www.sensorobots.net/)
+- [Yujin Robot](http://garage.yujinrobot.com/)
 
 ## TB2 Manufacturer
 
-The above distributors are provided by [Licensed TurtleBot Distributors]]({{ site.baseurl }}/distributors)
+The above distributors are provided by [Licensed TurtleBot Manufacturers]({{ site.baseurl }}/manufacturers)
 
-# TB1
+# TurtleBot1
 
 - The TurtleBot1 has been discontintued.
 
