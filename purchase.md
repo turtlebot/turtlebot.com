@@ -63,15 +63,15 @@ show_in_nav: true
 # TurtleBot3 Distributors
 
 ## World wide
-- <a href="http://en.robotis.com/">ROBOTIS CO., LTD.</a>
+- <a href="http://en.robotis.com/">ROBOTIS CO., LTD.</a> (contactus2@robotis.com) 
 
 ## North America
-- <a href="http://robotis.us/">ROBOTIS INC.</a>
+- <a href="http://robotis.us/">ROBOTIS INC.</a> (america@robotis.com)
 
 ## Asia
-- <a href="http://www.robotis.com/">ROBOTIS CO., LTD.</a>
-- <a href="http://jp.robotis.com/">ROBOTIS Japan</a>
-- <a href="http://cn.robotis.com/">ROBOTIS China</a>
+- <a href="http://www.robotis.com/">ROBOTIS CO., LTD.</a> (korea@robotis.com)
+- <a href="http://jp.robotis.com/">ROBOTIS Japan</a> (japan@robotis.com)
+- <a href="http://cn.robotis.com/">ROBOTIS China</a> (china@robotis.com) 
 
 # TurtleBot2 Distributors
 
