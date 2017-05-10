@@ -55,7 +55,8 @@ show_in_nav: true
     2. A quotation will be sent from the nearest distributor from your location. <br/>
     3. Shipping starts from June 5th and ETA may vary by region. <br/>
     4. If you have any questions, contact ROBOTIS at <span style="color:#7a87d1;">contactus2@robotis.com </span><br/>
-    *This offer is valid for academic users only. For distributorship, please go to <a href="http://www.turtlebot.com/partners/" target="_blank">www.turtlebot.com/partners/</a>
+     <p style="color:#ff0000;padding-bottom: 30px;">*This offer is valid for academic users only.</p><br />
+     For distributorship, please go to <a href="http://www.turtlebot.com/partners/" target="_blank">www.turtlebot.com/partners/</a>
   </p>
 
 </div>
