@@ -47,7 +47,7 @@ show_in_nav: true
     </tr>
   </table>
 
-  <p style="color:#ff0000;padding-bottom: 30px;">( * VAT and shipping charges not included. )</p><br/>
+  <p style="color:#ff0000;padding-bottom: 30px;">( * VAT and shipping charges not included. )</p>
   Please contact us at <span style="color:#7a87d1;">korea@robotis.com</span> if you are based in Korea. 
   Burger KRW 660,000 / Waffle KRW 2,200,000 ( VAT included )
 
