@@ -25,29 +25,32 @@ show_in_nav: true
 
   <table class="table table-bordered early-bird">
     <tr>
-      <td colspan='4' class="td_l"><b>Original Price: Burger <span style='text-decoration: line-through;'>USD 549.00</span> / Waffle <span style='text-decoration: line-through;'>USD 1,799.00</span> </b></td>
+      <td colspan='5' class="td_l"><b>Original Price: Burger <span style='text-decoration: line-through;'>USD 549.00</span> / Waffle <span style='text-decoration: line-through;'>USD 1,799.00</span> </b></td>
     </tr>
     <tr>
       <th></th>
       <th>USD</th>
+      <th>KRW</th>
       <th>EUR</th>
       <th>JPY</th>
     </tr>
     <tr>
       <td class="td_c">Burger</td>
       <td>499.00</td>
+      <td>660,000</td>
       <td>455.00</td>
       <td>54,000</td>
     </tr>
     <tr>
       <td class="td_c">Waffle</td>
       <td>1,599.00</td>
+      <td>2,200,000</td>
       <td>1,455.00</td>
       <td>170,000</td>
     </tr>
   </table>
 
-  <p style="color:#ff0000;padding-bottom: 30px;">( * VAT and shipping charges not included. )</p>
+  <p style="color:#ff0000;padding-bottom: 30px;">( * VAT and shipping charges not included at USD, EUR, JPY. )</p>
 
   <p style="line-height:1.6em;">
     <div style="background-color:#7a87d1; padding:5px 10px; color:#ffffff;width:140px; margin:5px 0; ">Shopping Guide</div>
