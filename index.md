@@ -6,9 +6,7 @@ html_title: TurtleBot
 
 <div class="row content-container visual_line">
   <div class="l_box">
-    <a href="https://docs.google.com/a/robotis.com/forms/d/e/1FAIpQLSdeClxuv09Y3cCTSc36Ur1-B0ARtAMccuaU40C4Zh9joHKEeg/viewform" target="_blank">
-      <img id="largeRobot" src="/assets/images/turtlebot3_with_logo2.png" alt="">
-    </a>
+    <img id="largeRobot" src="{{ site.baseurl }}/assets/images/turtlebot3_with_logo.png" alt="" />
   </div>
   <div class="r_box quick_menu">
     <ul>
