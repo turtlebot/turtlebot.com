@@ -11,7 +11,20 @@ show_in_nav: true
   <img id="tb3" src="{{ site.baseurl }}/assets/images/turtlebot3_models.png" alt="TurtleBot 3" style="width:80%; max-width:1042px;" />
 </div>
 
-(comming soon)
+## Official TurtleBot 3 Tutorials
+
+You can assemble and run a TurtleBot3 following the documentation.
+
+- Hardware and software setup
+- Bringup and teleoperation the TurtleBot3
+- SLAM / Navigation / Manipulation / Autonomous Driving
+- Simulation on RViz, Stage and Gazebo
+- Link: http://turtlebot3.robotis.com
+
+## Installing Turtlebot 3 simulator on ROS Indigo
+
+- Turtlebot 3 simulator in Ubuntu 14.04
+- Link: http://cyaninfinite.com/tutorials/installing-tb3-simulator-in-ubuntu14-04/
 
 # TurtleBot 2
 
