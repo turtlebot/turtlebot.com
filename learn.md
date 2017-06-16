@@ -19,12 +19,12 @@ You can assemble and run a TurtleBot3 following the documentation.
 - Bringup and teleoperation the TurtleBot3
 - SLAM / Navigation / Manipulation / Autonomous Driving
 - Simulation on RViz, Stage and Gazebo
-- Link: http://turtlebot3.robotis.com
+- Link: <http://turtlebot3.robotis.com>
 
-## Installing Turtlebot 3 simulator on ROS Indigo
+## Installing TurtleBot 3 simulator on ROS Indigo
 
 - Turtlebot 3 simulator in Ubuntu 14.04
-- Link: http://cyaninfinite.com/tutorials/installing-tb3-simulator-in-ubuntu14-04/
+- Link: <http://cyaninfinite.com/tutorials/installing-tb3-simulator-in-ubuntu14-04/>
 
 # TurtleBot 2
 
@@ -71,7 +71,7 @@ Dabit Industries is offering the [TurtleBot2e](http://dabit.industries/collectio
 - The Construct SIM
 - Robot Ignite Academy
 - Robository
-- Link: http://www.theconstructsim.com/
+- Link: <http://www.theconstructsim.com/>
 
 ## TurtleBot Tutorial from Clearpath Robotics
 
