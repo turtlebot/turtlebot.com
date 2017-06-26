@@ -18,7 +18,9 @@ show_in_nav: true
 - United Kingdom: <a href="https://robosavvy.com/store/turtlebot3.html">Robosavvy</a>
 
 ## Asia
+- China: <a href="http://www.gaitech.net/product_detail.asp?id=139&classid=46&nid=3&uid=2">Gaitech International Limited</a>
 - China: <a href="http://cn.robotis.com/index/product.php?cate_code=131810">ROBOTIS China</a> (china@robotis.com)
+- China: <a href="http://ayarobot.com/a/chanpinzhongxin/TurtleBot3/">YA Robot Company</a>
 - India: <a href="http://roborium.com/Robots/Turtlebot3">JMoon Technologies</a>
 - Japan: <a href="http://www.besttechnology.co.jp/modules/news/details.php?bid=140">BestTechnology CO., LTD.</a>
 - Japan: <a href="http://jp.robotis.com/index/product.php?cate_code=111310">ROBOTIS Japan</a> (japan@robotis.com)
