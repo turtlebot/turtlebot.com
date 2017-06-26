@@ -21,11 +21,15 @@ show_in_nav: true
 - China: <a href="http://www.gaitech.net/product_detail.asp?id=139&classid=46&nid=3&uid=2">Gaitech International Limited</a>
 - China: <a href="http://cn.robotis.com/index/product.php?cate_code=131810">ROBOTIS China</a> (china@robotis.com)
 - China: <a href="http://ayarobot.com/a/chanpinzhongxin/TurtleBot3/">YA Robot Company</a>
+- Hong Kong: <a href="http://www.robotics.com.hk/index.php?option=com_wrapper&Itemid=131">Cyber Robotics</a>
 - India: <a href="http://roborium.com/Robots/Turtlebot3">JMoon Technologies</a>
+- Iran: <a href="http://www.pishrobot.com/eng/product-en/turtlebot3/">Hushmand Afzar</a>
+- Israel: <a href="http://www.robotican.net/turtlebot-3">Robotican Ltd</a>
 - Japan: <a href="http://www.besttechnology.co.jp/modules/news/details.php?bid=140">BestTechnology CO., LTD.</a>
 - Japan: <a href="http://jp.robotis.com/index/product.php?cate_code=111310">ROBOTIS Japan</a> (japan@robotis.com)
 - Japan: <a href="https://www.rt-shop.jp/blog/archives/9944">RT Corporation</a>
 - Korea: <a href="http://www.robotis.com/index/product.php?cate_code=132010">ROBOTIS CO., LTD.</a> (korea@robotis.com)
+- Malaysia: <a href="http://www.astanadigital.com/categories/Turtlebot3/255">Astana Digital</a>
 - Taiwan: <a href="http://idminer.com.tw/2017/05/17/may-2017-turtlebot-3-%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%95%99%E8%82%B2%E5%96%AE%E4%BD%8D%E6%97%A9%E9%B3%A5%E5%84%AA%E6%83%A0%E9%A0%90%E8%B3%BC%E7%99%BB%E8%A8%98/">Intelligent Data Miner Inc.</a>
 
 
