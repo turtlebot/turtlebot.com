@@ -16,4 +16,4 @@
 - [Gaitech](http://www.gaitech.hk/)
 - [Lattel](http://www.lattel.my/)
 - [Sensorobot](http://www.sensorobots.net/)
-- [Yujin Robot](http://garage.yujinrobot.com/)
+- [Yujin Robot](https://store10227366.ecwid.com/)

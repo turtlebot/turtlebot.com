@@ -102,7 +102,7 @@ If you want to be added to the map, please visit <a href="{{ site.baseurl }}/par
 
 
 <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-<a href="http://garage.yujinrobot.com/"><img title="Yujin" src="{{ site.baseurl }}/assets/images/distributors/Yujin.png" alt="Yujin" width="120" style="margin:auto;display:block;"/></a>
+<a href="https://store10227366.ecwid.com/"><img title="Yujin" src="{{ site.baseurl }}/assets/images/distributors/Yujin.png" alt="Yujin" width="120" style="margin:auto;display:block;"/></a>
 </div>
 
 
