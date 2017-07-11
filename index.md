@@ -27,6 +27,8 @@ html_title: TurtleBot
 
     <p>For more information, we recommend an interview with TurtleBot creators, Tully Foote and Melonee Wise.
     <a href="http://spectrum.ieee.org/automaton/robotics/diy/interview-turtlebot-inventors-tell-us-everything-about-the-robot">TurtleBot Inventors Tell Us Everything About the Robot</a> (IEEE Spectrum, By Evan Ackerman, 26 Mar 2013)</p>
+
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/9OC3J53RUsk?ecver=1" frameborder="0" allowfullscreen></iframe></p>
   </div>
   <div class="r_box">
     <img id="rider" src="./assets/images/turtlebot_rider_with_oshw.gif" alt="" />
