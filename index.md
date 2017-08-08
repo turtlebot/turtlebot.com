@@ -38,7 +38,7 @@ html_title: TurtleBot
 # TurtleBot History
 
 <div style=" text-align:center ; padding:10px; ">
-  <img id="history" src="{{ site.baseurl }}/assets/images/turtlebot_history.png" alt="TurtleBot History" style="width:100%; max-width:1042px;" />
+  <img id="history" src="{{ site.baseurl }}/assets/images/TurtlebotHistory_new.png" alt="TurtleBot History" style="width:100%; max-width:1042px;" />
 </div>
 <br>
 
