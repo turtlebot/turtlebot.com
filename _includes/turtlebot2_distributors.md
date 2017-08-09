@@ -7,7 +7,6 @@
 
 - [Active Robots](http://www.active-robots.com/brands/turtlebot)
 - [Innorobotek](http://inrobotek.com.tr/ProductWithTab.aspx?MenuID=28)
-- [Dronyx](http://www.dronyx.com/)
 - [Robotnik](http://www.robotnik.eu/mobile-robots/turtlebot-ros/)
 - [Robot Sepeti](http://www.robotsepeti.com/arama/turtlebot)
 

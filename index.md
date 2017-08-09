@@ -75,10 +75,6 @@ If you want to be added to the map, please visit <a href="{{ site.baseurl }}/par
 </div>
 
 <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-<a href="http://www.dronyx.com/"><img title="Dronyx" src="{{ site.baseurl }}/assets/images/distributors/dronyx.png" alt="Dronyx" width="120px" style="margin:auto;display:block;"/></a>
-</div>
-
-<div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
 <a href="http://www.gaitech.hk/"><img title="GaiTech" src="{{ site.baseurl }}/assets/images/distributors/Gaitech.png" alt="GaiTech" width="120" style="margin:auto;display:block;"/></a>
 </div>
 
