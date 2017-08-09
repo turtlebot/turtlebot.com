@@ -20,6 +20,9 @@ show_in_nav: true
 - Spain: <a href="https://www.roscomponents.com/es/12-robots-moviles">ROS Components</a>
 - United Kingdom: <a href="https://robosavvy.com/store/turtlebot3.html">Robosavvy</a>
 
+## Oceania
+- Australia: <a href="http://www.tribotix.com/Products/Robotis/TB3/TB3.htm">Tribotix</a>
+
 ## Asia
 - China: <a href="http://www.ncnynl.com/turtlebot3.html">Foshan AiZheTeng Information Technology Co.,LTD.</a>
 - China: <a href="http://www.gaitech.net/product_detail.asp?id=139&classid=46&nid=3&uid=2">Gaitech International Limited</a>
