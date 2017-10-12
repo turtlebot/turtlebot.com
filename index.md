@@ -35,10 +35,10 @@ html_title: TurtleBot
   </div>
 </div>
 
-# TurtleBot History
+# TurtleBot Family
 
 <div style=" text-align:center ; padding:10px; ">
-  <img id="history" src="{{ site.baseurl }}/assets/images/turtlebot_history.png" alt="TurtleBot History" style="width:100%; max-width:1042px;" />
+  <img id="family" src="{{ site.baseurl }}/assets/images/turtlebot_family.png" alt="TurtleBot Family" style="width:100%; max-width:800px;" />
 </div>
 <br>
 
