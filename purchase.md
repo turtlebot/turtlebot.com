@@ -24,6 +24,7 @@ show_in_nav: true
 - Australia: <a href="http://www.tribotix.com/Products/Robotis/TB3/TB3.htm">Tribotix</a>
 
 ## Asia
+- China: <a href="http://www.rosrobot.cn/">BJRobot Technology Co.,LTD.</a>
 - China: <a href="http://www.ncnynl.com/turtlebot3.html">Foshan AiZheTeng Information Technology Co.,LTD.</a>
 - China: <a href="http://www.gaitech.net/product_detail.asp?id=139&classid=46&nid=3&uid=2">Gaitech International Limited</a>
 - China: <a href="http://cn.robotis.com/index/product.php?cate_code=131810">ROBOTIS China</a> (china@robotis.com)
