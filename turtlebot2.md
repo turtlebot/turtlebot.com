@@ -57,9 +57,11 @@ The TurtleBot2 is the 2nd generation of the TurtleBot following within the [REP 
 </div>
 </div>
 
-
+# TurtleBot 2 variations
 
 ## TurtleBot 2e
+
+<img id="largeRobot" src="{{ site.baseurl }}/assets/images/turtlebot2e.png" alt="TurtleBot 2e" width="250px"/>
 
 The TurtleBot 2e is a new revision of the TurtleBot primarily defined by replacing the netbook with a single board computer
 such as the 96 Boards CE computer, the DB410c.
@@ -67,3 +69,22 @@ such as the 96 Boards CE computer, the DB410c.
 Documentation of the TurtleBot2e can be found on github at [turtlebot/turtlebot2e]( https://github.com/turtlebot/turtlebot2e) and you can get it in pdf format [here](https://github.com/turtlebot/turtlebot2e/releases/download/0.0.1/turtlebot2e.pdf).
 
 Dabit Industries is offering the [TurtleBot2e](http://dabit.industries/collections/frontpage/products/turtlebot-2e) and the [TurtleBot2e Accessory Kit](http://dabit.industries/products/turtlebot-2e-sbc-accessories-kit).
+
+<div style="clear: both;"/>
+## TurtleBot 2i
+
+<img id="largeRobot" src="{{ site.baseurl }}/assets/images/turtlebot2i.jpg" alt="TurtleBot 2i" width="250px"/>
+
+The TurtleBot 2i extends upon previous iterations of the TurtleBot with a  modular chassis and for the first time, native support of robotic arms. The TurtleBot 2i offers the Pincher MK3 4 DOF Robotic Arm as a fully supported standard option allowing the robot to interact with small objects in the real world, effectively transforming the TurtleBot into an extremely capable mobile manipulator.
+
+The TurtleBot 2i is [available](http://www.trossenrobotics.com/interbotix-turtlebot-2i-mobile-ros-platform.aspx) from Trossen Robotics.
+<div style="clear: both;"/>
+
+## TurtleBot Euclid
+
+<img id="largeRobot" src="{{ site.baseurl }}/assets/images/turtlebot_euclid.png" alt="TurtleBot Euclid" width="250px"/>
+
+The [TurtleBot Euclid](https://www.clearpathrobotics.com/turtlebot-euclid/) is a variation on the TurtleBot2 that is focused on making the out of the box experience as easy as possible.
+It comes preassembled with the Intel Euclid Developmet Kit preinstalled with a web-interface to access the development environment. With a goal of allowing users to get started as quickly as possible.
+
+It's available for [preorder](https://store.clearpathrobotics.com/collections/robotics-kit/products/turtlebot-euclid) from Clearpath Robotics.
