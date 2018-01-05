@@ -1,4 +1,4 @@
-FROM ubuntu:vivid
+FROM ubuntu:xenial
 MAINTAINER Tully Foote<tfoote@osrfoundation.org>
 
 
