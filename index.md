@@ -91,10 +91,6 @@ If you want to be added to the map, please visit <a href="{{ site.baseurl }}/par
 </div>
 
 <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-<a href="http://www.robotsepeti.com/arama/turtlebot"><img title="Robot Sepeti" src="{{ site.baseurl }}/assets/images/distributors/Robot_Sepeti_Gilbo.png" alt="Robot Sepeti" width="120px" style="margin:auto;display:block;"/></a>
-</div>
-
-<div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
 <a href="http://www.sensorobots.net/"><img title="Sensorobot" src="{{ site.baseurl }}/assets/images/distributors/sensorobots.jpg" alt="Sensorobot" width="120px" style="margin:auto;display:block;"/></a>
 </div>
 
