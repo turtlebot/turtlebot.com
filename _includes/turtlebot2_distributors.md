@@ -6,7 +6,6 @@
 ## Europe
 
 - [Active Robots](http://www.active-robots.com/brands/turtlebot)
-- [Innorobotek](http://inrobotek.com.tr/ProductWithTab.aspx?MenuID=28)
 - [Robotnik](http://www.robotnik.eu/mobile-robots/turtlebot-ros/)
 
 ## Asia

@@ -79,10 +79,6 @@ If you want to be added to the map, please visit <a href="{{ site.baseurl }}/par
 </div>
 
 <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-<a href="http://inrobotek.com.tr/Entry.aspx?MenuID=1"><img title="Innorobotek" src="{{ site.baseurl }}/assets/images/distributors/Innorobotek.png" alt="Innorobotek" width="120px" style="margin:auto;display:block;"/></a>
-</div>
-
-<div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
 <a href="http://www.lattel.my/"><img title="Lattel" src="{{ site.baseurl }}/assets/images/distributors/Lattel.png" alt="Lattel" width="120px" style="margin:auto;display:block;"/></a>
 </div>
 
