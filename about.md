@@ -47,7 +47,7 @@ TurtleBot2 consists of an Yujin Kobuki base, a 2,200mAh battery pack, a Kinect s
 
 ## TurtleBot3
 
-TurtleBot3 is made up of modular plates that users can customize the shape. Available in two sizes: small size BURGER and medium size WAFFLE. TurtleBot3 consists of a base, a 1,800mAh battery pack, a 360 degree LIDAR(+ RealSense camera for WAFFLE kit), an SBC(single board computer: Raspberry PI 3 and Intel Joule 570x) and a hardware mounting kit attaching everything together and adding future sensors. Turtlebot 3 will be released in May 2017.
+TurtleBot3 is made up of modular plates that users can customize the shape. Available in three types: small size Burger and medium size Waffle, Waffle Pi. TurtleBot3 consists of a base, two Dynamixel motors, a 1,800mAh battery pack, a 360 degree LIDAR, a camera(+ RealSense camera for Waffle kit, + Raspberry Pi Camera for Waffle Pi kit), an SBC(single board computer: Raspberry PI 3 and Intel Joule 570x) and a hardware mounting kit attaching everything together and adding future sensors. Turtlebot3 was released on May 2017.
 
 [Robotis and OSRF Announce TurtleBot 3 Smaller, Cheaper, and Modular](http://spectrum.ieee.org/automaton/robotics/diy/robotis-and-osrf-announce-turtlebot-3-smaller-cheaper-and-modular) (IEEE Spectrum, By Evan Ackerman, 12 Oct 2016)
 
