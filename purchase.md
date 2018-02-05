@@ -40,6 +40,7 @@ show_in_nav: true
 - Japan: <a href="http://www.besttechnology.co.jp/modules/news/details.php?bid=140">BestTechnology CO.,LTD.</a>
 - Japan: <a href="http://jp.robotis.com/index/product.php?cate_code=111310">ROBOTIS Japan</a> (japan@robotis.com)
 - Japan: <a href="https://www.rt-shop.jp/blog/archives/9944">RT Corporation</a>
+- Japan: <a href="http://robotisproshop.cart.fc2.com/?ca=67">Sugiura Machine Design Office</a>
 - Korea: <a href="http://www.robotis.com/shop/list.php?ca_id=104050">ROBOTIS CO.,LTD.</a> (korea@robotis.com)
 - Malaysia: <a href="http://www.astanadigital.com/categories/Turtlebot3/255">Astana Digital</a>
 - Malaysia: <a href="http://site.robotclub.com.my/main/3150/index.asp?pageid=180634&t=research-robot-platform">HongQin Sdn Bhd</a>
