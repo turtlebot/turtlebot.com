@@ -4,7 +4,7 @@ title: TurtleBot
 html_title: TurtleBot
 ---
 
-<div class="row content-container visual_line">
+<!-- <div class="row content-container visual_line">
   <div class="l_box">
     <img id="largeRobot" src="{{ site.baseurl }}/assets/images/turtlebot3_with_logo.png" alt="" />
   </div>
@@ -16,6 +16,10 @@ html_title: TurtleBot
       <li><a href="{{ site.baseurl }}/partners"><div class="txt">Partners</div><img  src="{{ site.baseurl }}/assets/images/quick_menu4.gif" alt="" /></a></li>
     </ul>
   </div>
+</div> -->
+
+<div style=" text-align:center ; padding:10px; ">
+  <img id="family" src="{{ site.baseurl }}/assets/images/turtlebot3_with_logo.png" alt="turtleBot3 with logo" style="width:100%; max-width:800px;" />
 </div>
 
 <br>
