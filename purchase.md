@@ -29,7 +29,7 @@ show_in_nav: true
 - China: <a href="http://www.ncnynl.com/turtlebot3.html">Foshan AiZheTeng Information Technology Co.,LTD.</a>
 - China: <a href="http://www.gaitech.net/product_detail.asp?id=139&classid=46&nid=3&uid=2">Gaitech International Limited</a>
 - China: <a href="http://cn.robotis.com/index/product.php?cate_code=131810">ROBOTIS China</a> (china@robotis.com)
-- China: <a href="http://www.soyrobotics.com/product/showproduct.php?lang=cn&id=82">Suzhou SawYer Robotics Co.,LTD.</a>
+- China: <a href="http://www.soyrobotics.com/product/showproduct.php?lang=cn&id=82">Suzhou Soy Robotics Co.,Ltd.</a>
 - China: <a href="http://www.jingtianrobots.com/page70?product_category=14&brd=1">Wuhan Yutian Hengye Technology CO.,LTD.</a>
 - China: <a href="http://ayarobot.com/a/chanpinzhongxin/TurtleBot3/">YA Robot Company</a>
 - Hong Kong: <a href="http://www.robotics.com.hk/index.php?option=com_wrapper&Itemid=131">Cyber Robotics</a>
