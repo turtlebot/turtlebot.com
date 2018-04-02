@@ -5,7 +5,6 @@
 
 ## Europe
 
-- [Active Robots](http://www.active-robots.com/brands/turtlebot)
 - [Robotnik](http://www.robotnik.eu/mobile-robots/turtlebot-ros/)
 
 ## Asia
