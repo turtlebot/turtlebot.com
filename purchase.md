@@ -46,6 +46,7 @@ show_in_nav: true
 - Malaysia: <a href="http://site.robotclub.com.my/main/3150/index.asp?pageid=180634&t=research-robot-platform">HongQin Sdn Bhd</a>
 - Taiwan: <a href="http://idminer.com.tw/2017/05/17/may-2017-turtlebot-3-%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%95%99%E8%82%B2%E5%96%AE%E4%BD%8D%E6%97%A9%E9%B3%A5%E5%84%AA%E6%83%A0%E9%A0%90%E8%B3%BC%E7%99%BB%E8%A8%98/">Intelligent Data Miner Inc.</a>
 
+---
 
 # TurtleBot2 Distributors
 
@@ -55,9 +56,13 @@ show_in_nav: true
 
 The above distributors are provided by [Licensed TurtleBot Manufacturers]({{ site.baseurl }}/manufacturers)
 
+---
+
 # TurtleBot1
 
 - The TurtleBot1 has been discontintued.
+
+---
 
 # TurtleBot Distributors Map
 
