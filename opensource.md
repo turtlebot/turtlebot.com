@@ -6,7 +6,6 @@ show_in_nav: true
 ---
 
 # Open Source
-
 ## Software
 The software is provided in full open-source. The main license is [Apache License 2.0 ](https://www.apache.org/licenses/LICENSE-2.0).
 
@@ -29,15 +28,15 @@ The software is provided in full open-source. The main license is [Apache Licens
 
 ### Open Source Software related to TurtleBot 1 and 2
 - [Github for TurtleBot 1 and 2](https://github.com/turtlebot)
-- http://wiki.ros.org/turtlebot
-- http://wiki.ros.org/turtlebot_msgs
-- http://wiki.ros.org/turtlebot_apps
-- http://wiki.ros.org/turtlebot_interactions
-- http://wiki.ros.org/turtlebot_simulator
-- http://wiki.ros.org/turtlebot_arm
-- http://wiki.ros.org/kobuki
-- http://wiki.ros.org/kobuki_msgs
-- http://wiki.ros.org/yujin_ocs
+- [turtlebot](http://wiki.ros.org/turtlebot)
+- [turtlebot_msgs](http://wiki.ros.org/turtlebot_msgs)
+- [turtlebot_apps](http://wiki.ros.org/turtlebot_apps)
+- [turtlebot_interactions](http://wiki.ros.org/turtlebot_interactions)
+- [turtlebot_simulator](http://wiki.ros.org/turtlebot_simulator)
+- [turtlebot_arm](http://wiki.ros.org/turtlebot_arm)
+- [kobuki](http://wiki.ros.org/kobuki)
+- [kobuki_msgs](http://wiki.ros.org/kobuki_msgs)
+- [yujin_ocs](http://wiki.ros.org/yujin_ocs)
 
 ## Hardware
 The components of TurtleBot3 as a default are the following: the Chassis, the Motors, the Wheels, the OpenCR board, the Computer, the Sensor, the Battery. The chassis are the Waffle plates, the Board support, the Ball caster, etc. The big feature of the chassis is in the Waffle plate, which is the biggest in all TurtleBot3 parts, but is smaller than the hand. This plate will be provided as an injection molded, and it achieves the low cost, but the CAD data for 3D printing is also available. The TurtleBot3 Burger is a Two-wheeled differential drive type platform, but is able to be structurally and mechanically customized in many ways: the Cars, the Bikes, the Trailers and so on.
