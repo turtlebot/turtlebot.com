@@ -7,9 +7,9 @@ show_in_nav: true
 
 # Questions and Answers
 
-- Send all questions to [ROS Answers](http://answers.ros.org/questions/) with tag ``turtlebot``.
-- [ROS Answers](http://answers.ros.org/questions/) is a large knowledge base there of [TurtleBot Questions(taged turtlebot)](http://answers.ros.org/questions/scope:all/sort:activity-desc/tags:turtlebot/page:1/) on the site.
-- Send issues and bugs related source code to [TurtleBot3 GitHub](https://github.com/ROBOTIS-GIT/turtlebot3/issues).
+- Send all questions to [ROS Answers](http://answers.ros.org/questions/) with tag ``turtlebot`` or ``turtlebot3``.
+- [ROS Answers](http://answers.ros.org/questions/) is a large knowledge base there of **TurtleBot Questions** [(taged turtlebot](http://answers.ros.org/questions/scope:all/sort:activity-desc/tags:turtlebot/page:1/) and [taged turtlebot3)](https://answers.ros.org/questions/scope:all/sort:activity-desc/tags:turtlebot3/page:1/) on the site.
+- Send issues and bugs related source code to [TurtleBot GitHub](https://github.com/turtlebot/turtlebot) and [TurtleBot3 GitHub](https://github.com/ROBOTIS-GIT/turtlebot3/issues).
 - Please use the [TurtleBot discourse forum](https://discourse.ros.org/c/turtlebot) to discuss of interest to large portions of the TurtleBot users community.
 
 - NOTE:: Please read before posting an questions: <http://wiki.ros.org/Support>
@@ -20,10 +20,7 @@ show_in_nav: true
 
 Open source hardware is an emerging concept. We're following the recently established [Open Source Hardware Statement of Principles and Definition v1.0](http://freedomdefined.org/OSHW). From that document:
 
-
     "Open source hardware is hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design. The hardware's source, the design from which it is made, is available in the preferred format for making modifications to it....Open source hardware gives people the freedom to control their technology while sharing knowledge and encouraging commerce through the open exchange of designs."
-
-
 
 ## What does Open Source mean for TurtleBot?
 We're publishing all the information that you need to build your own TurtleBot, including links to all the parts that you need. You're free (and encouraged) to modify our initial design to create your own variations on TurtleBot.
