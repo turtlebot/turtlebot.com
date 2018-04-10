@@ -19,32 +19,30 @@ You can assemble and run a TurtleBot3 following the documentation.
 - Simulation on RViz and Gazebo
 - Link: <http://turtlebot3.robotis.com>
 
-
-## [TurtleBot3 Simulation on ROS Indigo](#turtlebot3-simulation-on-ros-indigo)
+## TurtleBot3 Simulation on ROS Indigo
 [Tutorials](http://cyaninfinite.com/tutorials/installing-tb3-simulator-in-ubuntu14-04/) for TurtleBot3 simulator in Ubuntu 14.04 (This tutorial is builed by [Cyaninfinite](http://cyaninfinite.com))
 
-
-## [TurtleBot3 with Blockly](#turtlebot3-blockly)
+## TurtleBot3 with Blockly
 Programming with Blockly to run TurtleBot3 (This tutorial is builed by [Dabit Industries](https://dabit.industries/))
 - [Blockly Wiki](https://turtlebot-3-blockly-wiki.readthedocs.io/en/latest/)
 
 ![turtlebot3 with blockly](http://emanual.robotis.com/assets/images/platform/turtlebot3/learn/turn_lr_deg.gif)
 
 
-## [The Construct](#the-construct)
+## Lecture by The Construct
 This lecture is made by [The Construct](http://www.theconstructsim.com/)
 - [MASTERING WITH ROS: TurtleBot3](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/mastering-with-ros-turtlebot3/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y54BWXInJDQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-## [Youtube Course](#youtube-course)
+## Youtube Course
 - [ROS Courses](https://www.youtube.com/playlist?list=PLRG6WP3c31_VIFtFAxSke2NG_DumVZPgw) [KR]
 - [ROS Courses](https://www.youtube.com/playlist?list=PLRG6WP3c31_U7TFGduEIJWVtkOw6AJjFf) [EN] (English version will be comming soon)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rV-POzbzoHc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## [Books](#books)
+## Books
 ![](/assets/images/platform/turtlebot3/learn/ros_robot_programming.png)
 
 ### Description
@@ -70,34 +68,29 @@ From the basic concept to practical robot application programming!
 
 ---
 
-# TurtleBot 2
+# TurtleBot2
 
-## Build a TurtleBot 2
-
+## Build a TurtleBot2
 <img title="TurtleBot 2" src="{{ site.baseurl }}/assets/images/turtlebot_2_lg.png" alt="TurtleBot 2" style="width:20%; max-width:1042px; float: right;" />
 
 The complete TurtleBot 2 includes a Kobuki base, Microsoft XBOX Kinect, ROS compatible netbook, and factory calibrated gyro.
 
-## Build a TurtleBot 2 from Scratch
-
+## Build a TurtleBot2 from Scratch
 You can build a TurtleBot from scratch by purchasing the parts such as netbook, Kinect, and Kobuki separately and following the documentation.
 
 [Download TurtleBot Documentation](http://download.ros.org/downloads/turtlebot/tb2_hardware_docs.tar.gz)
 
-## Kits for TurtleBot 2
-
+## Kits for TurtleBot2
 There are several kits avaliable to create a Turtlebot. Check out the <a href="{{ site.baseurl }}/partners">distributors' website</a> to find out more.
 
 ## TurtleBot 2e
-
 The TurtleBot 2e is a new revision of the TurtleBot primarily defined by replacing the netbook with a single board computer such as the 96 Boards CE computer, the DB410c.
 
 Documentation of the TurtleBot2e can be found on github at [turtlebot/turtlebot2e]( https://github.com/turtlebot/turtlebot2e) and you can get it in pdf format [here](https://github.com/turtlebot/turtlebot2e/releases/download/0.0.1/turtlebot2e.pdf).
 
 Dabit Industries is offering the [TurtleBot2e](http://dabit.industries/collections/frontpage/products/turtlebot-2e) and the [TurtleBot2e Accessory Kit](http://dabit.industries/products/turtlebot-2e-sbc-accessories-kit).
 
-## Learn TurtleBot 2 and ROS
-
+## Learn TurtleBot2 and ROS
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ni49uYq4cF4" frameborder="0" allowfullscreen></iframe>
 
 - Learning with the TurtleBot
@@ -107,8 +100,7 @@ Dabit Industries is offering the [TurtleBot2e](http://dabit.industries/collectio
 
 - Link: <http://learn.turtlebot.com/>
 
-## The Construct
-
+## Lecture by The Construct
 <iframe width="640" height="360" src="https://www.youtube.com/embed/mqz0r1UawuA" frameborder="0" allowfullscreen></iframe>
 
 - A platform to learn, program and simulate robots
@@ -117,15 +109,14 @@ Dabit Industries is offering the [TurtleBot2e](http://dabit.industries/collectio
 - Robository
 - Link: <http://www.theconstructsim.com/>
 
-## TurtleBot Tutorial from Clearpath Robotics
-
+## TurtleBot2 Tutorial from Clearpath Robotics
 - Link: [TurtleBot Tutorial(Clearpath)](https://www.clearpathrobotics.com/assets/guides/turtlebot/index.html)
 
-## TurtleBot Tutorial from Gaitech
+## TurtleBot2 Tutorial from Gaitech
 
 - Link: [TurtleBot Tutoria(Gaitech)](http://edu.gaitech.hk/turtlebot/turtlebot-tutorials.html)
 
-## TurtleBot Tutorial from IEEE Spectrum
+## TurtleBot2 Tutorial from IEEE Spectrum
 
 - Link: [TurtleBot Tutoria(IEEE Spectrum)](http://spectrum.ieee.org/tag/turtlebot%20tutorial)
 
