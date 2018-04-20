@@ -15,6 +15,7 @@ show_in_nav: true
 
 ## Europe
 - France: <a href="https://www.generationrobots.com/fr/recherche?controller=search&orderby=position&orderway=desc&search_query=turtlebot+3&submit_search=">Generation Robots</a>
+- Germany: <a href="https://www.mybotshop.de/Robots-on-Wheels">MyBotShop</a>
 - Germany: <a href="https://nodna.de/navi.php?qs=turtlebot+3">noDNA GmbH</a>
 - Italy: <a href="http://www.robo-dyne.com/en/turtlebot3/">RoboDyne SRL</a>
 - Spain: <a href="https://www.roscomponents.com/es/12-robots-moviles">ROS Components</a>
