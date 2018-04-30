@@ -62,11 +62,11 @@ If you want to be added to the map, please visit <a href="{{ site.baseurl }}/par
 <div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
 
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="https://www.openrobotics.org/"><img title="Open Robotics" src="{{ site.baseurl }}/assets/images/collaboration/OpenRobotics.png" alt="Open Robotics" width="120px" /></a>
+  <a href="https://www.openrobotics.org/"><img title="Open Robotics" src="{{ site.baseurl }}/assets/images/collaboration/OpenRobotics.png" alt="Open Robotics" width="200px" /></a>
   </div>
 
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="http://en.robotis.com/"><img title="ROBOTIS" src="{{ site.baseurl }}/assets/images/collaboration/ROBOTIS.png" alt="ROBOTIS" width="120px" /></a>
+  <a href="http://en.robotis.com/"><img title="ROBOTIS" src="{{ site.baseurl }}/assets/images/collaboration/ROBOTIS.png" alt="ROBOTIS" width="200px" /></a>
   </div>
 
 </div>
