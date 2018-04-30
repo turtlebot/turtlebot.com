@@ -59,42 +59,188 @@ If you want to be added to the map, please visit <a href="{{ site.baseurl }}/par
 
 ## TurtleBot3
 
-<div style=" text-align:center ; padding:10px; ">
-  <img id="collaboration" src="{{ site.baseurl }}/assets/images/collaboration.png" alt="TurtleBot3 Collaboration" style="width:100%; max-width:1042px;" />
+<div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="Open Robotics" src="{{ site.baseurl }}/assets/images/collaboration/OpenRobotics.png" alt="Open Robotics" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="ROBOTIS" src="{{ site.baseurl }}/assets/images/collaboration/ROBOTIS.png" alt="ROBOTIS" width="120px" /></a>
+  </div>
+
+</div>
+
+## TurtleBot3 Partners
+<div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="The Construct" src="{{ site.baseurl }}/assets/images/collaboration/TheConstruct.png" alt="The Construct" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="Intel" src="{{ site.baseurl }}/assets/images/collaboration/Intel.png" alt="Intel" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="Onshape" src="{{ site.baseurl }}/assets/images/collaboration/Onshape.png" alt="Onshape" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="OROCA" src="{{ site.baseurl }}/assets/images/collaboration/OROCA.png" alt="OROCA" width="120px" /></a>
+  </div>
+</div>
+
+## TurtleBot3 Distributors
+
+<div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="Dabit Industries" src="{{ site.baseurl }}/assets/images/collaboration/Dabit_Industries.png" alt="Dabit Industries" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="Generation Robots" src="{{ site.baseurl }}/assets/images/collaboration/Generation_Robots.png" alt="Generation Robots" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="France Robotique" src="{{ site.baseurl }}/assets/images/collaboration/France_Robotique.png" alt="France Robotique" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="MyBotShop" src="{{ site.baseurl }}/assets/images/collaboration/MyBotShop.png" alt="MyBotShop" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="noDNA" src="{{ site.baseurl }}/assets/images/collaboration/noDNA.png" alt="noDNA" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="RoboDyne" src="{{ site.baseurl }}/assets/images/collaboration/RoboDyne.png" alt="RoboDyne" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="ROS Components" src="{{ site.baseurl }}/assets/images/collaboration/ROS_Components.png" alt="ROS Components" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="Robotsepeti" src="{{ site.baseurl }}/assets/images/collaboration/Robotsepeti.png" alt="Robotsepeti" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="Robosavvy" src="{{ site.baseurl }}/assets/images/collaboration/Robosavvy.png" alt="Robosavvy" width="120px" /></a>
+  </div>
+
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="Tribotix" src="{{ site.baseurl }}/assets/images/collaboration/Tribotix.png" alt="Tribotix" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="BJRobot Technology" src="{{ site.baseurl }}/assets/images/collaboration/BJRobot_Technology.png" alt="BJRobot Technology" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="Foshan AiZheTeng Information Technology" src="{{ site.baseurl }}/assets/images/collaboration/Foshan_AiZheTeng_Information_Technology.png" alt="Foshan AiZheTeng Information Technology" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="Gaitech" src="{{ site.baseurl }}/assets/images/collaboration/Gaitech.png" alt="Gaitech" width="120px" /></a>
+  </div>
+
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="Sensorbot" src="{{ site.baseurl }}/assets/images/collaboration/Sensorbot.png" alt="Sensorbot" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="Suzhou Soy Robotics" src="{{ site.baseurl }}/assets/images/collaboration/Suzhou_Soy_Robotics.png" alt="Suzhou Soy Robotics" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="Wuhan Yutian Hengye Technology" src="{{ site.baseurl }}/assets/images/collaboration/Wuhan_Yutian_Hengye_Technology.png" alt="Wuhan Yutian Hengye Technology" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="YA Robot" src="{{ site.baseurl }}/assets/images/collaboration/YA_Robot.png" alt="YA Robot" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="Cyber Robotics" src="{{ site.baseurl }}/assets/images/collaboration/Cyber_Robotics.png" alt="Cyber Robotics" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="JMoon Technologies" src="{{ site.baseurl }}/assets/images/collaboration/JMoon_Technologies.png" alt="JMoon Technologies" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="DigiWare" src="{{ site.baseurl }}/assets/images/collaboration/DigiWare.png" alt="DigiWare" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="Hushmand Afzar" src="{{ site.baseurl }}/assets/images/collaboration/Hushmand_Afzar.png" alt="Hushmand Afzar" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="Robotican" src="{{ site.baseurl }}/assets/images/collaboration/Robotican.png" alt="Robotican" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="BestTechnology" src="{{ site.baseurl }}/assets/images/collaboration/BestTechnology.png" alt="BestTechnology" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="RT Corporation" src="{{ site.baseurl }}/assets/images/collaboration/RT_Corporation.png" alt="RT Corporation" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="Sugiura Machine Design Office" src="{{ site.baseurl }}/assets/images/collaboration/Sugiura_Machine_Design_Office.png" alt="Sugiura Machine Design Office" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="Astana Digital" src="{{ site.baseurl }}/assets/images/collaboration/Astana_Digital.png" alt="Astana Digital" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="HongQin Sdn Bhd" src="{{ site.baseurl }}/assets/images/collaboration/HongQin_Sdn_Bhd.png" alt="HongQin Sdn Bhd" width="120px" /></a>
+  </div>  
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="xxxxxx"><img title="Intelligent Data Miner" src="{{ site.baseurl }}/assets/images/collaboration/Intelligent_Data_Miner.png" alt="Intelligent Data Miner" width="120px" /></a>
+  </div>
+
 </div>
 
 ## TurtleBot2
 
 <div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
 
-<div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-<a href="http://www.clearpathrobotics.com/turtlebot_2"><img title="Clearpath Robotics" src="{{ site.baseurl }}/assets/images/distributors/Clearpath_Robotics.png" alt="Clearpath Robotics" width="120px" /></a>
-</div>
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="http://www.clearpathrobotics.com/turtlebot_2"><img title="Clearpath Robotics" src="{{ site.baseurl }}/assets/images/distributors/Clearpath_Robotics.png" alt="Clearpath Robotics" width="120px" /></a>
+  </div>
 
-<div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-<a href="http://dabit.industries/"><img title="Dabit Industries" src="{{ site.baseurl }}/assets/images/distributors/dabit.png" alt="Dabit Industries" width="120px"/></a>
-</div>
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="http://dabit.industries/"><img title="Dabit Industries" src="{{ site.baseurl }}/assets/images/distributors/Dabit_Industries.png" alt="Dabit Industries" width="120px"/></a>
+  </div>
 
-<div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-<a href="http://www.gaitech.hk/"><img title="GaiTech" src="{{ site.baseurl }}/assets/images/distributors/Gaitech.png" alt="GaiTech" width="120" style="margin:auto;display:block;"/></a>
-</div>
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="http://www.gaitech.hk/"><img title="GaiTech" src="{{ site.baseurl }}/assets/images/distributors/Gaitech.png" alt="GaiTech" width="120" style="margin:auto;display:block;"/></a>
+  </div>
 
-<div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-<a href="http://www.lattel.my/"><img title="Lattel" src="{{ site.baseurl }}/assets/images/distributors/Lattel.png" alt="Lattel" width="120px" style="margin:auto;display:block;"/></a>
-</div>
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="http://www.lattel.my/"><img title="Lattel" src="{{ site.baseurl }}/assets/images/distributors/Lattel.png" alt="Lattel" width="120px" style="margin:auto;display:block;"/></a>
+  </div>
 
-<div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-<a href="http://robotnik.es/en"><img title="Robotnik" src="{{ site.baseurl }}/assets/images/distributors/Robotnik.png" alt="Robotnik" width="120px" style="margin:auto;display:block;"/></a>
-</div>
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="http://robotnik.es/en"><img title="Robotnik" src="{{ site.baseurl }}/assets/images/distributors/Robotnik.png" alt="Robotnik" width="120px" style="margin:auto;display:block;"/></a>
+  </div>
 
-<div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-<a href="http://www.sensorobots.net/"><img title="Sensorobot" src="{{ site.baseurl }}/assets/images/distributors/sensorobots.jpg" alt="Sensorobot" width="120px" style="margin:auto;display:block;"/></a>
-</div>
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="http://www.sensorobots.net/"><img title="Sensorbot" src="{{ site.baseurl }}/assets/images/distributors/Sensorbot.png" alt="Sensorbot" width="120px" style="margin:auto;display:block;"/></a>
+  </div>
 
-
-<div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-<a href="https://store10227366.ecwid.com/"><img title="Yujin" src="{{ site.baseurl }}/assets/images/distributors/Yujin.png" alt="Yujin" width="120" style="margin:auto;display:block;"/></a>
-</div>
-
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="https://store10227366.ecwid.com/"><img title="Yujin" src="{{ site.baseurl }}/assets/images/distributors/Yujin.png" alt="Yujin" width="120" style="margin:auto;display:block;"/></a>
+  </div>
 
 </div>
