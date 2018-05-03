@@ -7,14 +7,11 @@ show_in_nav: true
 
 # TurtleBot3 Collaboration Project
 
-TurtleBot3 is a collaboration project among [Open Robotics](https://www.osrfoundation.org/), [ROBOTIS](http://www.robotis.com/), and more partners like [The Construct](http://www.theconstructsim.com/), [Intel](http://www.intel.com), [Onshape](https://www.onshape.com) and [OROCA](http://www.oroca.org/).
+TurtleBot3 is a collaboration project among [Open Robotics](https://www.osrfoundation.org/), [ROBOTIS](http://www.robotis.com/), and more partners like [The Construct](http://www.theconstructsim.com/), [Intel](http://www.intel.com), [Onshape](https://www.onshape.com) and [OROCA](http://www.oroca.org/). The [Open Robotics](https://www.osrfoundation.org/) is in charge of software and community activities, while [ROBOTIS](http://www.robotis.com/) is in charge of manufacturing and global distribution. 
 
-The [Open Robotics](https://www.osrfoundation.org/) is in charge of software and community activities, while [ROBOTIS](http://www.robotis.com/) is in charge of manufacturing and global distribution.
-
-We need more partners who can provide technology,educational service or distribution in each country.
+We need more partners who can provide technology, educational service or distribution in each country.
 
 For partnership, please fill out form below.
-
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
