@@ -5,11 +5,11 @@ html_title: Partners - TurtleBot
 show_in_nav: true
 ---
 
-# TurtleBot3 Collaboration project
+# TurtleBot3 Collaboration Project
 
-TurtleBot3 is a collaboration project among [OSRF](https://www.osrfoundation.org/), [ROBOTIS](http://www.robotis.com/), and more partners like [Intel](http://www.intel.com), [Onshape](https://www.onshape.com).
+TurtleBot3 is a collaboration project among [Open Robotics](https://www.osrfoundation.org/), [ROBOTIS](http://www.robotis.com/), and more partners like [The Construct](http://www.theconstructsim.com/), [Intel](http://www.intel.com), [Onshape](https://www.onshape.com) and [OROCA](http://www.oroca.org/).
 
-The [OSRF](https://www.osrfoundation.org/) is in charge of software and community activities, while [ROBOTIS](http://www.robotis.com/) is in charge of manufacturing and global distribution.
+The [Open Robotics](https://www.osrfoundation.org/) is in charge of software and community activities, while [ROBOTIS](http://www.robotis.com/) is in charge of manufacturing and global distribution.
 
 We need more partners who can provide technology,educational service or distribution in each country.
 

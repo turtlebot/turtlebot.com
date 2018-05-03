@@ -10,8 +10,7 @@ show_in_nav: true
   <img id="tb3" src="{{ site.baseurl }}/assets/images/turtlebot3_models.png" alt="TurtleBot3" style="width:80%; max-width:1042px;" />
 </div>
 
-
-## Official TurtleBot 3 Tutorials
+## Official TurtleBot3 Tutorials
 You can assemble and run a TurtleBot3 following the documentation.
 - Hardware and software setup
 - Bringup and teleoperation the TurtleBot3
@@ -19,8 +18,25 @@ You can assemble and run a TurtleBot3 following the documentation.
 - Simulation on RViz and Gazebo
 - Link: <http://turtlebot3.robotis.com>
 
-## TurtleBot3 Simulation on ROS Indigo
-[Tutorials](http://cyaninfinite.com/tutorials/installing-tb3-simulator-in-ubuntu14-04/) for TurtleBot3 simulator in Ubuntu 14.04 (This tutorial is builed by [Cyaninfinite](http://cyaninfinite.com))
+## 'MASTERING WITH ROS: TurtleBot3' by The Construct
+- [MASTERING WITH ROS: TurtleBot3](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/mastering-with-ros-turtlebot3/) Within this Course, you are going to learn how you can start working with the TurtleBot3 robot, explore its functionalitities, and how to build build some interesting ROS applications for it. This lecture is made by [The Construct](http://www.theconstructsim.com/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y54BWXInJDQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+What you will learn via this lecture:
+- Basic Usage and control of the TurtleBot3 robot
+- How to perform Navigation with TurtleBot3
+- Follow a line with TurtleBot3
+- Object Recognition with TurtleBot3
+- Motion Planning in Moveit with TurtleBot3
+- Grasping with TurtleBot3
+
+## TurtleBot3 simulation on RDS v2.0
+- Have a TurtleBot3 simulation running in 5 minutes with RDS v2.0
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y54BWXInJDQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+If you want to learn more ROS, please check the [ROBOT IGNITE ACADEMY](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/) that contains a series of online ROS tutorials tied to online simulations, giving you the tools and knowledge to understand and create any ROS based robotics development.
 
 ## TurtleBot3 with Blockly
 Programming with Blockly to run TurtleBot3 (This tutorial is builed by [Dabit Industries](https://dabit.industries/))
@@ -28,13 +44,8 @@ Programming with Blockly to run TurtleBot3 (This tutorial is builed by [Dabit In
 
 ![turtlebot3 with blockly](http://emanual.robotis.com/assets/images/platform/turtlebot3/learn/turn_lr_deg.gif)
 
-
-## Lecture by The Construct
-This lecture is made by [The Construct](http://www.theconstructsim.com/)
-- [MASTERING WITH ROS: TurtleBot3](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/mastering-with-ros-turtlebot3/)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y54BWXInJDQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+## TurtleBot3 Simulation on ROS Indigo
+[Tutorials](http://cyaninfinite.com/tutorials/installing-tb3-simulator-in-ubuntu14-04/) for TurtleBot3 simulator in Ubuntu 14.04 (This tutorial is builed by [Cyaninfinite](http://cyaninfinite.com))
 
 ## Youtube Course
 - [ROS Courses](https://www.youtube.com/playlist?list=PLRG6WP3c31_VIFtFAxSke2NG_DumVZPgw) [KR]
