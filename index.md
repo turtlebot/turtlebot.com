@@ -4,63 +4,36 @@ title: TurtleBot
 html_title: TurtleBot
 ---
 
-<!-- <div class="row content-container visual_line">
-  <div class="l_box">
-    <img id="largeRobot" src="{{ site.baseurl }}/assets/images/turtlebot3_with_logo.png" alt="" />
-  </div>
-  <div class="r_box quick_menu">
-    <ul>
-      <li><a href="{{ site.baseurl }}/qna"><div class="txt">Q&amp;A</div><img src="{{ site.baseurl }}/assets/images/quick_menu1.gif" alt="" /></a></li>
-      <li><a href="{{ site.baseurl }}/learn"><div class="txt">Learn</div><img  src="{{ site.baseurl }}/assets/images/quick_menu2.gif" alt="" /></a></li>
-      <li><a href="{{ site.baseurl }}/opensource"><div class="txt">Open<br />Source</div><img  src="{{ site.baseurl }}/assets/images/quick_menu3.gif" alt=""  /></a></li>
-      <li><a href="{{ site.baseurl }}/partners"><div class="txt">Partners</div><img  src="{{ site.baseurl }}/assets/images/quick_menu4.gif" alt="" /></a></li>
-    </ul>
-  </div>
-</div> -->
-
 <div style=" text-align:center ; padding:10px; ">
   <img id="family" src="{{ site.baseurl }}/assets/images/turtlebot3_with_logo.png" alt="turtleBot3 with logo" style="width:100%; max-width:800px;" />
 </div>
 
 <br>
 
-<div class="row content-container whatis">
-  <div class="l_box">
-    <h1 id="what-is-a-turtlebot">What is a TurtleBot?</h1>
-    <p>TurtleBot is a low-cost, personal robot kit with open-source software. TurtleBot was created at Willow Garage by Melonee Wise and Tully Foote in November 2010. With TurtleBot, you’ll be able to build a robot that can drive around your house, see in 3D, and have enough horsepower to create exciting applications.</p>
+# What is a TurtleBot?
 
-    <p>For more information, we recommend an interview with TurtleBot creators, Tully Foote and Melonee Wise.
-    <a href="http://spectrum.ieee.org/automaton/robotics/diy/interview-turtlebot-inventors-tell-us-everything-about-the-robot">TurtleBot Inventors Tell Us Everything About the Robot</a> (IEEE Spectrum, By Evan Ackerman, 26 Mar 2013)</p>
+TurtleBot is a low-cost, personal robot kit with open-source software. TurtleBot was created at Willow Garage by Melonee Wise and Tully Foote in November 2010. With TurtleBot, you’ll be able to build a robot that can drive around your house, see in 3D, and have enough horsepower to create exciting applications.
 
-    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/9OC3J53RUsk?ecver=1" frameborder="0" allowfullscreen></iframe></p>
-  </div>
-  <div class="r_box">
-    <img id="rider" src="./assets/images/turtlebot_rider_with_oshw.gif" alt="" />
-  </div>
-</div>
+For more information, we recommend an interview with TurtleBot creators, Tully Foote and Melonee Wise.
+<a href="http://spectrum.ieee.org/automaton/robotics/diy/interview-turtlebot-inventors-tell-us-everything-about-the-robot">TurtleBot Inventors Tell Us Everything About the Robot (IEEE Spectrum, By Evan Ackerman, 26 Mar 2013)</a>
+
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/9OC3J53RUsk?ecver=1" frameborder="0" allowfullscreen></iframe>
+
+<br>
 
 # TurtleBot Family
 
 <div style=" text-align:center ; padding:10px; ">
   <img id="family" src="{{ site.baseurl }}/assets/images/turtlebot_family.png" alt="TurtleBot Family" style="width:100%; max-width:800px;" />
 </div>
-<br>
 
-# TurtleBot Distributors
-
-TurtleBot3 Distributor : RED (<img id="pin red" src="{{ site.baseurl }}/assets/images/pin_r.png" alt="" height="32px" />), TurtleBot2 Manufacturer/Distributor : BLUE (<img id="pin blue" src="{{ site.baseurl }}/assets/images/pin_b.png" alt="" height="32px" />)
-
-If you want to be added to the map, please visit <a href="{{ site.baseurl }}/partners">here</a> for partner registration.
-
-<script type="text/javascript" src="https://embed.githubusercontent.com/view/geojson/turtlebot/map/master/Distributors.geojson"></script>
 <br>
 
 # TurtleBot Collaboration
 
-## TurtleBot3
+# TurtleBot3 Providers
 
 <div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
-
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="https://www.openrobotics.org/"><img title="Open Robotics" src="{{ site.baseurl }}/assets/images/collaboration/OpenRobotics.png" alt="Open Robotics" width="200px" /></a>
   </div>
@@ -68,10 +41,9 @@ If you want to be added to the map, please visit <a href="{{ site.baseurl }}/par
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="http://en.robotis.com/"><img title="ROBOTIS" src="{{ site.baseurl }}/assets/images/collaboration/ROBOTIS.png" alt="ROBOTIS" width="200px" /></a>
   </div>
-
 </div>
 
-## TurtleBot3 Partners
+# TurtleBot3 Partners
 <div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
 
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
@@ -89,9 +61,13 @@ If you want to be added to the map, please visit <a href="{{ site.baseurl }}/par
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="http://www.oroca.org/"><img title="OROCA" src="{{ site.baseurl }}/assets/images/collaboration/OROCA.png" alt="OROCA" width="120px" /></a>
   </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="https://github.com/AuTURBO/"><img title="AuTURBO" src="{{ site.baseurl }}/assets/images/collaboration/AuTURBO.png" alt="AuTURBO" width="120px" /></a>
+  </div>
 </div>
 
-## TurtleBot3 Distributors
+# TurtleBot3 Distributors
 
 <div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
 
@@ -209,7 +185,7 @@ If you want to be added to the map, please visit <a href="{{ site.baseurl }}/par
 
 </div>
 
-## TurtleBot2
+# TurtleBot2
 
 <div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
 
@@ -242,3 +218,11 @@ If you want to be added to the map, please visit <a href="{{ site.baseurl }}/par
   </div>
 
 </div>
+
+# TurtleBot Map
+
+TurtleBot3 Distributor : RED (<img id="pin red" src="{{ site.baseurl }}/assets/images/pin_r.png" alt="" height="32px" />), TurtleBot2 Manufacturer/Distributor : BLUE (<img id="pin blue" src="{{ site.baseurl }}/assets/images/pin_b.png" alt="" height="32px" />)
+If you want to be added to the map, please visit <a href="{{ site.baseurl }}/partners">here</a> for partner registration.
+
+<script type="text/javascript" src="https://embed.githubusercontent.com/view/geojson/turtlebot/map/master/Distributors.geojson"></script>
+
