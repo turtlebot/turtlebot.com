@@ -12,6 +12,8 @@ html_title: TurtleBot
 
 # What is a TurtleBot?
 
+<br>
+
 TurtleBot is a low-cost, personal robot kit with open-source software. TurtleBot was created at Willow Garage by Melonee Wise and Tully Foote in November 2010. With TurtleBot, you’ll be able to build a robot that can drive around your house, see in 3D, and have enough horsepower to create exciting applications.
 
 For more information, we recommend an interview with TurtleBot creators, Tully Foote and Melonee Wise.
@@ -31,6 +33,8 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 
 # TurtleBot3 Providers
 
+<br>
+
 <div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="https://www.openrobotics.org/"><img title="Open Robotics" src="{{ site.baseurl }}/assets/images/collaboration/OpenRobotics.png" alt="Open Robotics" width="200px" /></a>
@@ -43,9 +47,11 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 
 <br>
 
-# TurtleBot3 Partners
-<div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
+# TurtleBot3 Partners and Research Collaborator
 
+<br>
+
+<div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="http://www.theconstructsim.com/"><img title="The Construct" src="{{ site.baseurl }}/assets/images/collaboration/TheConstruct.png" alt="The Construct" width="120px" /></a>
   </div>
@@ -71,8 +77,9 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 
 # TurtleBot3 Distributors
 
-<div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
+<br>
 
+<div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="https://dabit.industries/collections/turtlebot-3"><img title="Dabit Industries" src="{{ site.baseurl }}/assets/images/distributors/Dabit_Industries.png" alt="Dabit Industries" width="120px" /></a>
   </div>
@@ -190,8 +197,9 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 
 # TurtleBot2
 
-<div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
+<br>
 
+<div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="http://www.clearpathrobotics.com/turtlebot_2"><img title="Clearpath Robotics" src="{{ site.baseurl }}/assets/images/distributors/Clearpath_Robotics.png" alt="Clearpath Robotics" width="120px" /></a>
   </div>
@@ -221,9 +229,11 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
   </div>
 </div>
 
-<br>
+<br><br>
 
 # TurtleBot Map
+
+<br>
 
 TurtleBot3 Distributor : RED (<img id="pin red" src="{{ site.baseurl }}/assets/images/pin_r.png" alt="" height="32px" />), TurtleBot2 Manufacturer/Distributor : BLUE (<img id="pin blue" src="{{ site.baseurl }}/assets/images/pin_b.png" alt="" height="32px" />)
 
