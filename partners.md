@@ -11,9 +11,9 @@ show_in_nav: true
 
 TurtleBot3 is a collaboration project among [Open Robotics](https://www.osrfoundation.org/), [ROBOTIS](http://www.robotis.com/), and more partners like [The Construct](http://www.theconstructsim.com/), [Intel](http://www.intel.com), [Onshape](https://www.onshape.com), [OROCA](http://www.oroca.org/) and [AuTURBO](https://github.com/AuTURBO/). The [Open Robotics](https://www.osrfoundation.org/) is in charge of software and community activities, while [ROBOTIS](http://www.robotis.com/) is in charge of manufacturing and global distribution. 
 
-We need more partners who can provide technology, educational service or distribution in each country.
+The most important part of this TurtleBot3 collaboration project is open source based software, hardware, and content. We are encouraging more partners and research collaborators to participate in this project to enrich the robotics field. We need more partners who can provide technology, educational service or distribution in each country.
 
-For partnership, please fill out form below.
+If you are interested in a partnership with us to realize open source robotics, please fill out the form below.
 
 <br>
 
@@ -33,11 +33,12 @@ For partnership, please fill out form below.
 
 <br>
 
-# TurtleBot3 Partners and Research Collaborator
+# TurtleBot3 Partners and Research Collaborators
 
 <br>
 
 <div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
+
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="http://www.theconstructsim.com/"><img title="The Construct" src="{{ site.baseurl }}/assets/images/collaboration/TheConstruct.png" alt="The Construct" width="120px" /></a>
   </div>
@@ -57,6 +58,19 @@ For partnership, please fill out form below.
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="https://github.com/AuTURBO/"><img title="AuTURBO" src="{{ site.baseurl }}/assets/images/collaboration/AuTURBO.png" alt="AuTURBO" width="120px" /></a>
   </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="https://www.youtube.com/channel/UCLvvXbwPkostryBQt4MIbUw"><img title="ROS in Robotclub Malaysia" src="{{ site.baseurl }}/assets/images/collaboration/ROS_in_Robotclub_Malaysia.jpg" alt="ROS in Robotclub Malaysia" width="120px" /></a>
+  </div>  
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="https://www.youtube.com/channel/UCWiIY_zrKH-LMlx2GBWu3yA"><img title="Astana Digital" src="{{ site.baseurl }}/assets/images/collaboration/Astana_Digital.png" alt="Astana Digital" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="https://www.polariant.io/"><img title="Polariant Experiment" src="{{ site.baseurl }}/assets/images/collaboration/POLARIANT.png" alt="Polariant Experiment" width="120px" /></a>
+  </div>
+
 </div>
 
 <br>
@@ -66,6 +80,7 @@ For partnership, please fill out form below.
 <br>
 
 <div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
+
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="https://dabit.industries/collections/turtlebot-3"><img title="Dabit Industries" src="{{ site.baseurl }}/assets/images/distributors/Dabit_Industries.png" alt="Dabit Industries" width="120px" /></a>
   </div>
@@ -177,6 +192,7 @@ For partnership, please fill out form below.
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="http://idminer.com.tw/2017/05/17/may-2017-turtlebot-3-%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%95%99%E8%82%B2%E5%96%AE%E4%BD%8D%E6%97%A9%E9%B3%A5%E5%84%AA%E6%83%A0%E9%A0%90%E8%B3%BC%E7%99%BB%E8%A8%98/"><img title="Intelligent Data Miner" src="{{ site.baseurl }}/assets/images/distributors/Intelligent_Data_Miner.png" alt="Intelligent Data Miner" width="120px" /></a>
   </div>
+
 </div>
 
 <br>
@@ -191,7 +207,7 @@ For partnership, please fill out form below.
 <div id="mc_embed_signup">
 <form action="//robotis.us9.list-manage.com/subscribe/post?u=9d2260f8791d5652343da1723&amp;id=1236bbacdd" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-           <h2>TURTLEBOT3 Partnership</h2>
+           <h2>TurtleBot3 Partnership</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
            <label for="mce-MMERGE3">Institution or Company Name  <span class="asterisk">*</span>

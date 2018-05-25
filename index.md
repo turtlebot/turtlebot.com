@@ -47,11 +47,12 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 
 <br>
 
-# TurtleBot3 Partners and Research Collaborator
+# TurtleBot3 Partners and Research Collaborators
 
 <br>
 
 <div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
+
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="http://www.theconstructsim.com/"><img title="The Construct" src="{{ site.baseurl }}/assets/images/collaboration/TheConstruct.png" alt="The Construct" width="120px" /></a>
   </div>
@@ -71,6 +72,19 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="https://github.com/AuTURBO/"><img title="AuTURBO" src="{{ site.baseurl }}/assets/images/collaboration/AuTURBO.png" alt="AuTURBO" width="120px" /></a>
   </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="https://www.youtube.com/channel/UCLvvXbwPkostryBQt4MIbUw"><img title="ROS in Robotclub Malaysia" src="{{ site.baseurl }}/assets/images/collaboration/ROS_in_Robotclub_Malaysia.jpg" alt="ROS in Robotclub Malaysia" width="120px" /></a>
+  </div>  
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="https://www.youtube.com/channel/UCWiIY_zrKH-LMlx2GBWu3yA"><img title="Astana Digital" src="{{ site.baseurl }}/assets/images/collaboration/Astana_Digital.png" alt="Astana Digital" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="https://www.polariant.io/"><img title="Polariant Experiment" src="{{ site.baseurl }}/assets/images/collaboration/POLARIANT.png" alt="Polariant Experiment" width="120px" /></a>
+  </div>
+
 </div>
 
 <br>
@@ -80,6 +94,7 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 <br>
 
 <div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
+
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="https://dabit.industries/collections/turtlebot-3"><img title="Dabit Industries" src="{{ site.baseurl }}/assets/images/distributors/Dabit_Industries.png" alt="Dabit Industries" width="120px" /></a>
   </div>
@@ -191,6 +206,7 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="http://idminer.com.tw/2017/05/17/may-2017-turtlebot-3-%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%95%99%E8%82%B2%E5%96%AE%E4%BD%8D%E6%97%A9%E9%B3%A5%E5%84%AA%E6%83%A0%E9%A0%90%E8%B3%BC%E7%99%BB%E8%A8%98/"><img title="Intelligent Data Miner" src="{{ site.baseurl }}/assets/images/distributors/Intelligent_Data_Miner.png" alt="Intelligent Data Miner" width="120px" /></a>
   </div>
+
 </div>
 
 <br>
@@ -200,6 +216,7 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 <br>
 
 <div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
+
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="http://www.clearpathrobotics.com/turtlebot_2"><img title="Clearpath Robotics" src="{{ site.baseurl }}/assets/images/distributors/Clearpath_Robotics.png" alt="Clearpath Robotics" width="120px" /></a>
   </div>
@@ -227,6 +244,7 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="https://store10227366.ecwid.com/"><img title="Yujin" src="{{ site.baseurl }}/assets/images/distributors/Yujin.png" alt="Yujin" width="120" style="margin:auto;display:block;"/></a>
   </div>
+
 </div>
 
 <br><br>
@@ -235,7 +253,7 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 
 <br>
 
-TurtleBot3 Distributor : RED (<img id="pin red" src="{{ site.baseurl }}/assets/images/pin_r.png" alt="" height="32px" />), TurtleBot2 Manufacturer/Distributor : BLUE (<img id="pin blue" src="{{ site.baseurl }}/assets/images/pin_b.png" alt="" height="32px" />)
+TurtleBot3 Distributors: RED (<img id="pin red" src="{{ site.baseurl }}/assets/images/pin_r.png" alt="" height="32px" />), TurtleBot2 Manufacturers/Distributors: BLUE (<img id="pin blue" src="{{ site.baseurl }}/assets/images/pin_b.png" alt="" height="32px" />)
 
 If you want to be added to the map, please visit <a href="{{ site.baseurl }}/partners">here</a> for partner registration.
 
