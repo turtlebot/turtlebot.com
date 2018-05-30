@@ -11,5 +11,6 @@
 
 - [Gaitech](http://www.gaitech.hk/)
 - [Lattel](http://www.lattel.my/)
+- [Shannon Intelligence](http://www.shannon.cc/)
 - [Sensorobot](http://www.sensorobots.net/)
 - [Yujin Robot](https://store10227366.ecwid.com/)

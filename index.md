@@ -236,6 +236,10 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="http://robotnik.es/en"><img title="Robotnik" src="{{ site.baseurl }}/assets/images/distributors/Robotnik.png" alt="Robotnik" width="120px" style="margin:auto;display:block;"/></a>
   </div>
+  
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="http://www.shannon.cc/"><img title="Shannon Intelligence" src="{{ site.baseurl }}/assets/images/distributors/Shannon.jpg" alt="Shannon" width="120px" /></a>
+  </div>
 
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="http://www.sensorobots.net/"><img title="Sensorbot" src="{{ site.baseurl }}/assets/images/distributors/Sensorbot.png" alt="Sensorbot" width="120px" style="margin:auto;display:block;"/></a>
@@ -258,4 +262,3 @@ TurtleBot3 Distributors: RED (<img id="pin red" src="{{ site.baseurl }}/assets/i
 If you want to be added to the map, please visit <a href="{{ site.baseurl }}/partners">here</a> for partner registration.
 
 <script type="text/javascript" src="https://embed.githubusercontent.com/view/geojson/turtlebot/map/master/Distributors.geojson"></script>
-
