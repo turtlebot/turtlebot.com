@@ -85,6 +85,14 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
   <a href="https://www.polariant.io/"><img title="Polariant Experiment" src="{{ site.baseurl }}/assets/images/collaboration/POLARIANT.png" alt="Polariant Experiment" width="120px" /></a>
   </div>
 
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="http://web.tuat.ac.jp/~gvlab/"><img title="Tokyo University of Agriculture and Technology, GVlab" src="{{ site.baseurl }}/assets/images/collaboration/GVLAB.jpg" alt="Tokyo University of Agriculture and Technology, GVlab" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="https://sites.google.com/a/g2.nctu.edu.tw/ncrl/"><img title="Networked Control Robotics Lab at National Chiao Tung University" src="{{ site.baseurl }}/assets/images/collaboration/NCTU.png" alt="Networked Control Robotics Lab at National Chiao Tung University" width="120px" /></a>
+  </div>
+
 </div>
 
 <br>

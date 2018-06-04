@@ -9,7 +9,7 @@ show_in_nav: true
 
 <br>
 
-TurtleBot3 is a collaboration project among [Open Robotics](https://www.osrfoundation.org/), [ROBOTIS](http://www.robotis.com/), and more partners like [The Construct](http://www.theconstructsim.com/), [Intel](http://www.intel.com), [Onshape](https://www.onshape.com), [OROCA](http://www.oroca.org/), [AuTURBO](https://github.com/AuTURBO/), [ROS in RobotClub Malaysia](https://www.youtube.com/channel/UCLvvXbwPkostryBQt4MIbUw), [Astana Digital](https://www.youtube.com/channel/UCWiIY_zrKH-LMlx2GBWu3yA), [Polariant Experiment](https://www.polariant.io/). The [Open Robotics](https://www.osrfoundation.org/) is in charge of software and community activities, while [ROBOTIS](http://www.robotis.com/) is in charge of manufacturing and global distribution. 
+TurtleBot3 is a collaboration project among [Open Robotics](https://www.osrfoundation.org/), [ROBOTIS](http://www.robotis.com/), and more partners like [The Construct](http://www.theconstructsim.com/), [Intel](http://www.intel.com), [Onshape](https://www.onshape.com), [OROCA](http://www.oroca.org/), [AuTURBO](https://github.com/AuTURBO/), [ROS in RobotClub Malaysia](https://www.youtube.com/channel/UCLvvXbwPkostryBQt4MIbUw), [Astana Digital](https://www.youtube.com/channel/UCWiIY_zrKH-LMlx2GBWu3yA), [Polariant Experiment](https://www.polariant.io/), [Tokyo University of Agriculture and Technology, GVlab](http://web.tuat.ac.jp/~gvlab/), [Networked Control Robotics Lab at National Chiao Tung University](https://sites.google.com/a/g2.nctu.edu.tw/ncrl/). The [Open Robotics](https://www.osrfoundation.org/) is in charge of software and community activities, while [ROBOTIS](http://www.robotis.com/) is in charge of manufacturing and global distribution. 
 
 The most important part of this TurtleBot3 collaboration project is open source based software, hardware, and content. We are encouraging more partners and research collaborators to participate in this project to enrich the robotics field. We need more partners who can provide technology, educational service or distribution in each country.
 
@@ -69,6 +69,14 @@ If you are interested in a partnership with us to realize open source robotics, 
 
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="https://www.polariant.io/"><img title="Polariant Experiment" src="{{ site.baseurl }}/assets/images/collaboration/POLARIANT.png" alt="Polariant Experiment" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="http://web.tuat.ac.jp/~gvlab/"><img title="Tokyo University of Agriculture and Technology, GVlab" src="{{ site.baseurl }}/assets/images/collaboration/GVLAB.jpg" alt="Tokyo University of Agriculture and Technology, GVlab" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="https://sites.google.com/a/g2.nctu.edu.tw/ncrl/"><img title="Networked Control Robotics Lab at National Chiao Tung University" src="{{ site.baseurl }}/assets/images/collaboration/NCTU.png" alt="Networked Control Robotics Lab at National Chiao Tung University" width="120px" /></a>
   </div>
 
 </div>
