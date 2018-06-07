@@ -93,6 +93,10 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
   <a href="https://sites.google.com/a/g2.nctu.edu.tw/ncrl/"><img title="Networked Control Robotics Lab at National Chiao Tung University" src="{{ site.baseurl }}/assets/images/collaboration/NCTU.png" alt="Networked Control Robotics Lab at National Chiao Tung University" width="120px" /></a>
   </div>
 
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="https://www.sim.informatik.tu-darmstadt.de/en/index/ "><img title="Simulation, Systems Optimization and Robotics Group" src="{{ site.baseurl }}/assets/images/collaboration/TUDA_SIM_Group.png" alt="Simulation, Systems Optimization and Robotics Group" width="120px" /></a>
+  </div>
+
 </div>
 
 <br>
