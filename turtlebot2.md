@@ -79,12 +79,3 @@ The TurtleBot 2i extends upon previous iterations of the TurtleBot with a  modul
 
 The TurtleBot 2i is [available](http://www.trossenrobotics.com/interbotix-turtlebot-2i-mobile-ros-platform.aspx) from Trossen Robotics.
 <div style="clear: both;"/>
-
-## TurtleBot Euclid
-
-<img id="largeRobot" src="{{ site.baseurl }}/assets/images/turtlebot_euclid.png" alt="TurtleBot Euclid" width="250px"/>
-
-The [TurtleBot Euclid](https://www.clearpathrobotics.com/turtlebot-euclid/) is a variation on the TurtleBot2 that is focused on making the out of the box experience as easy as possible.
-It comes preassembled with the Intel Euclid Developmet Kit preinstalled with a web-interface to access the development environment. With a goal of allowing users to get started as quickly as possible.
-
-It's available for [preorder](https://store.clearpathrobotics.com/collections/robotics-kit/products/turtlebot-euclid) from Clearpath Robotics.
