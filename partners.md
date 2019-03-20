@@ -110,10 +110,6 @@ If you are interested in a partnership with us to realize open source robotics, 
   </div>
 
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="https://nodna.de/navi.php?qs=turtlebot+3"><img title="noDNA" src="{{ site.baseurl }}/assets/images/distributors/noDNA.png" alt="noDNA" width="120px" /></a>
-  </div>
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="http://www.robo-dyne.com/en/turtlebot3/"><img title="RoboDyne" src="{{ site.baseurl }}/assets/images/distributors/RoboDyne.png" alt="RoboDyne" width="120px" /></a>
   </div>
 
