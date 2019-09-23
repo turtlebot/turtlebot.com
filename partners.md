@@ -9,7 +9,7 @@ show_in_nav: true
 
 <br>
 
-TurtleBot3 is a collaboration project among [Open Robotics](https://www.osrfoundation.org/), [ROBOTIS](http://www.robotis.com/), and more partners like [The Construct](http://www.theconstructsim.com/), [Intel](http://www.intel.com), [Onshape](https://www.onshape.com), [OROCA](http://www.oroca.org/), [AuTURBO](https://github.com/AuTURBO/), [ROS in RobotClub Malaysia](https://www.youtube.com/channel/UCLvvXbwPkostryBQt4MIbUw), [Astana Digital](https://www.youtube.com/channel/UCWiIY_zrKH-LMlx2GBWu3yA), [Polariant Experiment](https://www.polariant.io/), [Tokyo University of Agriculture and Technology, GVlab](http://web.tuat.ac.jp/~gvlab/), [Networked Control Robotics Lab at National Chiao Tung University](https://sites.google.com/a/g2.nctu.edu.tw/ncrl/), [SIM Group at TU Darmstadt](https://www.sim.informatik.tu-darmstadt.de/en/index/). The [Open Robotics](https://www.osrfoundation.org/) is in charge of software and community activities, while [ROBOTIS](http://www.robotis.com/) is in charge of manufacturing and global distribution. 
+TurtleBot3 is a collaboration project among [Open Robotics](https://www.osrfoundation.org/), [ROBOTIS](http://www.robotis.com/), and more partners like [The Construct](http://www.theconstructsim.com/), [Intel](http://www.intel.com), [Onshape](https://www.onshape.com), [OROCA](http://www.oroca.org/), [AuTURBO](https://github.com/AuTURBO/), [ROS in RobotClub Malaysia](https://www.youtube.com/channel/UCLvvXbwPkostryBQt4MIbUw), [Astana Digital](https://www.youtube.com/channel/UCWiIY_zrKH-LMlx2GBWu3yA), [Polariant Experiment](https://www.polariant.io/), [Tokyo University of Agriculture and Technology, GVlab](http://web.tuat.ac.jp/~gvlab/), [Networked Control Robotics Lab at National Chiao Tung University](https://sites.google.com/a/g2.nctu.edu.tw/ncrl/), [SIM Group at TU Darmstadt](https://www.sim.informatik.tu-darmstadt.de/en/index/). The [Open Robotics](https://www.osrfoundation.org/) is in charge of software and community activities, while [ROBOTIS](http://www.robotis.com/) is in charge of manufacturing and global distribution.
 
 The most important part of this TurtleBot3 collaboration project is open source based software, hardware, and content. We are encouraging more partners and research collaborators to participate in this project to enrich the robotics field. We need more partners who can provide technology, educational service or distribution in each country.
 
@@ -61,7 +61,7 @@ If you are interested in a partnership with us to realize open source robotics, 
 
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="https://www.youtube.com/channel/UCLvvXbwPkostryBQt4MIbUw"><img title="ROS in Robotclub Malaysia" src="{{ site.baseurl }}/assets/images/collaboration/ROS_in_Robotclub_Malaysia.jpg" alt="ROS in Robotclub Malaysia" width="120px" /></a>
-  </div>  
+  </div>
 
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="https://www.youtube.com/channel/UCWiIY_zrKH-LMlx2GBWu3yA"><img title="Astana Digital" src="{{ site.baseurl }}/assets/images/collaboration/Astana_Digital.png" alt="Astana Digital" width="120px" /></a>
@@ -82,7 +82,7 @@ If you are interested in a partnership with us to realize open source robotics, 
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="https://www.sim.informatik.tu-darmstadt.de/en/index/ "><img title="Simulation, Systems Optimization and Robotics Group" src="{{ site.baseurl }}/assets/images/collaboration/TUDA_SIM_Group.png" alt="Simulation, Systems Optimization and Robotics Group" width="120px" /></a>
   </div>
-  
+
 </div>
 
 <br>
@@ -195,11 +195,16 @@ If you are interested in a partnership with us to realize open source robotics, 
 
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="http://site.robotclub.com.my/main/3150/index.asp?pageid=180634&t=research-robot-platform"><img title="HongQin Sdn Bhd" src="{{ site.baseurl }}/assets/images/distributors/HongQin_Sdn_Bhd.png" alt="HongQin Sdn Bhd" width="120px" /></a>
-  </div>  
+  </div>
 
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="http://idminer.com.tw/2017/05/17/may-2017-turtlebot-3-%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%95%99%E8%82%B2%E5%96%AE%E4%BD%8D%E6%97%A9%E9%B3%A5%E5%84%AA%E6%83%A0%E9%A0%90%E8%B3%BC%E7%99%BB%E8%A8%98/"><img title="Intelligent Data Miner" src="{{ site.baseurl }}/assets/images/distributors/Intelligent_Data_Miner.png" alt="Intelligent Data Miner" width="120px" /></a>
   </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="https://www.mgsuperlabs.co.in/estore/index.php?route=product/search&search=turtlebot3"><img title="MG Automation Technologies" src="{{ site.baseurl }}/assets/images/distributors/MG_Automation_Technologies.jpg" alt="MG Automation Technologies" width="120px" /></a>
+  </div>
+
 
 </div>
 
@@ -266,4 +271,4 @@ If you are interested in a partnership with us to realize open source robotics, 
 
 TurtleBot2 manufacturing and distribution is managed by OSRF and fulfilled through a network of partners listed [here]({{ site.baseurl }}/purchase).
 
-If you are interested in becoming a TurtleBot2 distributor please contact OSRF at turtlebot@osrfoundation.org 
+If you are interested in becoming a TurtleBot2 distributor please contact OSRF at turtlebot@osrfoundation.org

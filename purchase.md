@@ -37,6 +37,7 @@ show_in_nav: true
 - China: <a href="http://ayarobot.com/a/chanpinzhongxin/TurtleBot3/">YA Robot Company</a>
 - Hong Kong: <a href="http://www.robotics.com.hk/index.php?option=com_wrapper&Itemid=131">Cyber Robotics</a>
 - India: <a href="http://roborium.com/Robots/Turtlebot3">JMoon Technologies</a>
+- India: <a href="https://www.mgsuperlabs.co.in/estore/index.php?route=product/search&search=turtlebot3">MG Automation Technologies</a>
 - Indonesia: <a href="http://digiwarestore.com/en/search?controller=search&orderby=position&orderway=desc&search_query=turtlebot3&submit_search=">DigiWare</a>
 - Iran: <a href="http://www.pishrobot.com/eng/product-en/turtlebot3/">Hushmand Afzar</a>
 - Israel: <a href="http://www.robotican.net/turtlebot-3">Robotican Ltd</a>
