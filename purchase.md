@@ -19,6 +19,7 @@ show_in_nav: true
 - Germany: <a href="https://www.generationrobots.com/de/suche?controller=search&orderby=position&orderway=desc&search_query=turtlebot&submit_search=">Generation Robots</a>
 - Germany: <a href="https://www.mybotshop.de/Robots-on-Wheels">MyBotShop</a>
 - Italy: <a href="http://www.robo-dyne.com/en/turtlebot3/">RoboDyne SRL</a>
+- Russia: <a href="http://appliedrobotics.ru/?page_id=578">Applied Robotics Ltd.</a>
 - Spain: <a href="https://www.roscomponents.com/es/12-robots-moviles">ROS Components</a>
 - Turkey: <a href="http://www.robotsepeti.com/turtlebot-3-burger">Robotsepeti.com - Gilbo</a>
 - United Kingdom: <a href="https://robosavvy.com/store/turtlebot3.html">Robosavvy</a>
@@ -49,6 +50,7 @@ show_in_nav: true
 - Malaysia: <a href="http://www.astanadigital.com/categories/Turtlebot3/255">Astana Digital</a>
 - Malaysia: <a href="http://site.robotclub.com.my/main/3150/index.asp?pageid=180634&t=research-robot-platform">HongQin Sdn Bhd</a>
 - Taiwan: <a href="http://idminer.com.tw/2017/05/17/may-2017-turtlebot-3-%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%95%99%E8%82%B2%E5%96%AE%E4%BD%8D%E6%97%A9%E9%B3%A5%E5%84%AA%E6%83%A0%E9%A0%90%E8%B3%BC%E7%99%BB%E8%A8%98/">Intelligent Data Miner Inc.</a>
+- Vietnam <a href="http://www.indruino.com/distribution-product/professtional-product">INDRUINO TECHNOLOGY SOLUTION CO., LTD</a>
 
 ---
 

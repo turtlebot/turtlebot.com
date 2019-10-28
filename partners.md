@@ -205,6 +205,13 @@ If you are interested in a partnership with us to realize open source robotics, 
   <a href="https://www.mgsuperlabs.co.in/estore/index.php?route=product/search&search=turtlebot3"><img title="MG Automation Technologies" src="{{ site.baseurl }}/assets/images/distributors/MG_Automation_Technologies.jpg" alt="MG Automation Technologies" width="120px" /></a>
   </div>
 
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="http://www.indruino.com/distribution-product/professtional-product"><img title="INDRUINO TECHNOLOGY SOLUTION" src="{{ site.baseurl }}/assets/images/distributors/Induino.png" alt="INDRUINO TECHNOLOGY SOLUTION" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="http://appliedrobotics.ru/?page_id=578"><img title="Applied Robotics" src="{{ site.baseurl }}/assets/images/distributors/Applied_Robotics.png" alt="Applied Robotics" width="120px" /></a>
+  </div>
 
 </div>
 
