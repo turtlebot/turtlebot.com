@@ -75,7 +75,7 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="https://www.youtube.com/channel/UCLvvXbwPkostryBQt4MIbUw"><img title="ROS in Robotclub Malaysia" src="{{ site.baseurl }}/assets/images/collaboration/ROS_in_Robotclub_Malaysia.jpg" alt="ROS in Robotclub Malaysia" width="120px" /></a>
-  </div>  
+  </div>
 
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="https://www.youtube.com/channel/UCWiIY_zrKH-LMlx2GBWu3yA"><img title="Astana Digital" src="{{ site.baseurl }}/assets/images/collaboration/Astana_Digital.png" alt="Astana Digital" width="120px" /></a>
@@ -209,10 +209,22 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="http://site.robotclub.com.my/main/3150/index.asp?pageid=180634&t=research-robot-platform"><img title="HongQin Sdn Bhd" src="{{ site.baseurl }}/assets/images/distributors/HongQin_Sdn_Bhd.png" alt="HongQin Sdn Bhd" width="120px" /></a>
-  </div>  
+  </div>
 
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="http://idminer.com.tw/2017/05/17/may-2017-turtlebot-3-%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%95%99%E8%82%B2%E5%96%AE%E4%BD%8D%E6%97%A9%E9%B3%A5%E5%84%AA%E6%83%A0%E9%A0%90%E8%B3%BC%E7%99%BB%E8%A8%98/"><img title="Intelligent Data Miner" src="{{ site.baseurl }}/assets/images/distributors/Intelligent_Data_Miner.png" alt="Intelligent Data Miner" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="https://www.mgsuperlabs.co.in/estore/index.php?route=product/search&search=turtlebot3"><img title="MG Automation Technologies" src="{{ site.baseurl }}/assets/images/distributors/MG_Automation_Technologies.jpg" alt="MG Automation Technologies" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="http://www.indruino.com/distribution-product/professtional-product"><img title="INDRUINO TECHNOLOGY SOLUTION" src="{{ site.baseurl }}/assets/images/distributors/Induino.png" alt="INDRUINO TECHNOLOGY SOLUTION" width="120px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="http://appliedrobotics.ru/?page_id=578"><img title="Applied Robotics" src="{{ site.baseurl }}/assets/images/distributors/Applied_Robotics.png" alt="Applied Robotics" width="120px" /></a>
   </div>
 
 </div>
@@ -244,7 +256,7 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="http://robotnik.es/en"><img title="Robotnik" src="{{ site.baseurl }}/assets/images/distributors/Robotnik.png" alt="Robotnik" width="120px" style="margin:auto;display:block;"/></a>
   </div>
-  
+
   <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
   <a href="http://www.shannon.cc/"><img title="Shannon Intelligence" src="{{ site.baseurl }}/assets/images/distributors/Shannon.jpg" alt="Shannon" width="120px" /></a>
   </div>
