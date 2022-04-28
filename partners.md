@@ -271,11 +271,3 @@ If you are interested in a partnership with us to realize open source robotics, 
 <!--End mc_embed_signup-->
 
 <br>
-
-# TurtleBot2
-
-<br>
-
-TurtleBot2 manufacturing and distribution is managed by OSRF and fulfilled through a network of partners listed [here]({{ site.baseurl }}/purchase).
-
-If you are interested in becoming a TurtleBot2 distributor please contact OSRF at turtlebot@osrfoundation.org

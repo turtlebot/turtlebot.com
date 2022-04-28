@@ -56,11 +56,7 @@ show_in_nav: true
 
 # TurtleBot2 Distributors
 
-{% include turtlebot2_distributors.md %}
-
-## TB2 Manufacturer
-
-The above distributors are provided by [Licensed TurtleBot Manufacturers]({{ site.baseurl }}/manufacturers)
+- The TurtleBot2 has been discontintued.
 
 ---
 
