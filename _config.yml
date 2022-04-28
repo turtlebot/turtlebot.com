@@ -2,3 +2,9 @@ highlighter: rouge
 github: [Repository metadata]
 permalink: pretty
 baseurl: ''
+gems:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
+plugins:
+  - jekyll-redirect-from
