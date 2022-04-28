@@ -140,8 +140,3 @@ Do you have an iRobot Create that you would like to turn into a TurtleBot? Check
 
 [Download TurtleBot 1 Documentation](http://download.ros.org/downloads/turtlebot/TurtleBot-Hardware-2011-07-23.zip)
 
----
-
-# Official TurtleBot Tutorial from ROS Wiki
-
-- Link: <http://wiki.ros.org/Robots/TurtleBot>
