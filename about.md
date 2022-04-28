@@ -41,7 +41,7 @@ TurtleBot1 consists of an iRobot Create base, a 3,000mAh battery pack, a TurtleB
 
 ## TurtleBot2
 
-TurtleBot2 consists of an Yujin Kobuki base, a 2,200mAh battery pack, a Kinect sensor, an Asus 1215N laptop with a dual core processor, fast charger, charging dock, and a hardware mounting kit attaching everything together and adding future sensors. Turtlebot2 was released on Oct 2012.
+[TurtleBot2](/turtlebot2) consists of an Yujin Kobuki base, a 2,200mAh battery pack, a Kinect sensor, an Asus 1215N laptop with a dual core processor, fast charger, charging dock, and a hardware mounting kit attaching everything together and adding future sensors. Turtlebot2 was released on Oct 2012.
 
 [TurtleBot 2.0 Now Available for Preorder from Clearpath Robotics](http://spectrum.ieee.org/automaton/robotics/diy/turtlebot-2-now-available-for-preorder-from-clearpath-robotics) (IEEE Spectrum, By Evan Ackerman, 22 Oct 2012 )
 
