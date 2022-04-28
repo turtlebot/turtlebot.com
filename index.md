@@ -231,47 +231,6 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 
 <br>
 
-# TurtleBot2
-
-<br>
-
-<div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="http://www.clearpathrobotics.com/turtlebot_2"><img title="Clearpath Robotics" src="{{ site.baseurl }}/assets/images/distributors/Clearpath_Robotics.png" alt="Clearpath Robotics" width="120px" /></a>
-  </div>
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="http://dabit.industries/"><img title="Dabit Industries" src="{{ site.baseurl }}/assets/images/distributors/Dabit_Industries.png" alt="Dabit Industries" width="120px"/></a>
-  </div>
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="http://www.gaitech.hk/"><img title="GaiTech" src="{{ site.baseurl }}/assets/images/distributors/Gaitech.png" alt="GaiTech" width="120" style="margin:auto;display:block;"/></a>
-  </div>
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="http://www.lattel.my/"><img title="Lattel" src="{{ site.baseurl }}/assets/images/distributors/Lattel.png" alt="Lattel" width="120px" style="margin:auto;display:block;"/></a>
-  </div>
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="http://robotnik.es/en"><img title="Robotnik" src="{{ site.baseurl }}/assets/images/distributors/Robotnik.png" alt="Robotnik" width="120px" style="margin:auto;display:block;"/></a>
-  </div>
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="http://www.shannon.cc/"><img title="Shannon Intelligence" src="{{ site.baseurl }}/assets/images/distributors/Shannon.jpg" alt="Shannon" width="120px" /></a>
-  </div>
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="http://www.sensorobots.net/"><img title="Sensorbot" src="{{ site.baseurl }}/assets/images/distributors/Sensorbot.png" alt="Sensorbot" width="120px" style="margin:auto;display:block;"/></a>
-  </div>
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="https://store10227366.ecwid.com/"><img title="Yujin" src="{{ site.baseurl }}/assets/images/distributors/Yujin.png" alt="Yujin" width="120" style="margin:auto;display:block;"/></a>
-  </div>
-
-</div>
-
-<br><br>
 
 # TurtleBot Map
 
