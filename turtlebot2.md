@@ -2,7 +2,6 @@
 layout: default
 title: TurtleBot2
 html_title: TurtleBot2
-show_in_nav: true
 ---
 
 
@@ -13,10 +12,9 @@ Open-source robot development kit for apps on wheels.
 
 # Quick Links
  * [I want to buy a TurtleBot!]({{site.baseurl}}/purchase)
- * [I want to build my own TurtleBot!]({{site.baseurl}}/build)
- * [Help me get started!]({{site.baseurl}}/learn)
+ * [Help me get started!](https://learn.turtlebot.com)
 
-# What is a TurtleBot?
+# What is a TurtleBot2?
 
 TurtleBot is a low-cost, personal robot kit with open-source software. With TurtleBot, you'll be able to build a robot that can drive around your house, see in 3D, and have enough horsepower to create exciting applications.
 
