@@ -93,7 +93,7 @@ Programming with Blockly to run TurtleBot3 (This tutorial is builed by [Dabit In
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rV-POzbzoHc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Books
-![](/assets/images/platform/turtlebot3/learn/ros_robot_programming.png)
+![](/assets/images/ros_robot_programming.png)
 
 ### Description
 This book is a ROS robot programming guide based on the experiences we had accumulated from ROS projects like TurtleBot3, OpenCR and OpenManipulator. We tried to make this a comprehensive guide that covers all aspects necessary for a beginner in ROS. Topics such as embedded system, mobile robots, and robot arms programmed with ROS are included. For those who are new to ROS, there are footnotes throughout the book providing more information on the web. Through this book, we hope that more people will be aware of and participate in bringing forward the ever-accelerating collective knowledge of Robotics Engineering.
