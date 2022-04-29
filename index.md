@@ -109,13 +109,3 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 
 <br>
 
-
-# TurtleBot Map
-
-<br>
-
-TurtleBot3 Distributors: RED (<img id="pin red" src="{{ site.baseurl }}/assets/images/pin_r.png" alt="" height="32px" />), TurtleBot2 Manufacturers/Distributors: BLUE (<img id="pin blue" src="{{ site.baseurl }}/assets/images/pin_b.png" alt="" height="32px" />)
-
-If you want to be added to the map, please visit <a href="{{ site.baseurl }}/partners">here</a> for partner registration.
-
-<script type="text/javascript" src="https://embed.githubusercontent.com/view/geojson/turtlebot/map/master/Distributors.geojson"></script>
