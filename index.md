@@ -19,20 +19,10 @@ TurtleBot is a low-cost, personal robot kit with open-source software. TurtleBot
 For more information, we recommend an interview with TurtleBot creators, Tully Foote and Melonee Wise.
 <a href="http://spectrum.ieee.org/automaton/robotics/diy/interview-turtlebot-inventors-tell-us-everything-about-the-robot">TurtleBot Inventors Tell Us Everything About the Robot (IEEE Spectrum, By Evan Ackerman, 26 Mar 2013)</a>
 
-<iframe width="100%" height="360" src="https://www.youtube.com/watch?v=5D_pnLONa_A" frameborder="0" allowfullscreen></iframe>
+There are two generations of TurtleBots in production now. The [TurtleBot4](http://www.clearpathrobotics.com/turtlebot-4/) and the [TurtleBot3](turtlebot3).
 
 <br>
 
-# TurtleBot Family
-
-### There are now 4 generations of TurtleBots. Find out more about the history of the Turtlebot [here](about)
-
-<div style=" text-align:center ; padding:10px; ">
-  <img id="family" src="{{ site.baseurl }}/assets/images/turtlebot_family.png" alt="TurtleBot Family" style="width:100%; max-width:800px;" />
-</div>
-
-
-<br>
 
 # TurtleBot 4 
 
@@ -79,6 +69,8 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
   <img id="family" src="{{ site.baseurl }}/assets/images/turtlebot3_with_logo.png" alt="turtleBot3 with logo" style="width:100%; max-width:800px;" />
 </div>
 
+<iframe width="100%" height="360" src="https://www.youtube.com/watch?v=5D_pnLONa_A" frameborder="0" allowfullscreen></iframe>
+
 ## Partners
 ### The TurtleBot 3 was created in a partnership between Open Robotics and ROBOTIS.
 <br>
@@ -104,3 +96,13 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 
 <br>
 
+# TurtleBot Family
+
+### There are now 4 generations of TurtleBots. Find out more about the history of the Turtlebot [here](about)
+
+<div style=" text-align:center ; padding:10px; ">
+  <img id="family" src="{{ site.baseurl }}/assets/images/turtlebot_family.png" alt="TurtleBot Family" style="width:100%; max-width:800px;" />
+</div>
+
+
+<br>
