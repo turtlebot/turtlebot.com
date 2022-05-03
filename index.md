@@ -21,8 +21,8 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 
 There are two generations of TurtleBots in production now. The [TurtleBot4](http://www.clearpathrobotics.com/turtlebot-4/) and the [TurtleBot3](turtlebot3).
 
-<br>
 
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/5D_pnLONa_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # TurtleBot 4 
 
@@ -69,7 +69,7 @@ There are two generations of TurtleBots in production now. The [TurtleBot4](http
   <img id="family" src="{{ site.baseurl }}/assets/images/turtlebot3_with_logo.png" alt="turtleBot3 with logo" style="width:100%; max-width:800px;" />
 </div>
 
-<iframe width="100%" height="360" src="https://www.youtube.com/watch?v=5D_pnLONa_A" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/9OC3J53RUsk?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 ## Partners
 ### The TurtleBot 3 was created in a partnership between Open Robotics and ROBOTIS.
