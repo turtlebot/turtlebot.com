@@ -5,7 +5,7 @@ html_title: TurtleBot
 ---
 
 <div style=" text-align:center ; padding:10px; ">
-  <img id="family" src="{{ site.baseurl }}/assets/images/turtlebot3_with_logo.png" alt="turtleBot3 with logo" style="width:100%; max-width:800px;" />
+  <img id="family" src="{{ site.baseurl }}/assets/images/TurtleBot4_Header.png" alt="turtleBot4 with logo" style="width:100%; max-width:800px;" />
 </div>
 
 <br>
@@ -19,20 +19,65 @@ TurtleBot is a low-cost, personal robot kit with open-source software. TurtleBot
 For more information, we recommend an interview with TurtleBot creators, Tully Foote and Melonee Wise.
 <a href="http://spectrum.ieee.org/automaton/robotics/diy/interview-turtlebot-inventors-tell-us-everything-about-the-robot">TurtleBot Inventors Tell Us Everything About the Robot (IEEE Spectrum, By Evan Ackerman, 26 Mar 2013)</a>
 
-<iframe width="100%" height="360" src="https://www.youtube.com/embed/9OC3J53RUsk?ecver=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="https://www.youtube.com/watch?v=5D_pnLONa_A" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
 # TurtleBot Family
 
+### There are now 4 generations of TurtleBots. Find out more about the history of the Turtlebot [here](about)
+
 <div style=" text-align:center ; padding:10px; ">
   <img id="family" src="{{ site.baseurl }}/assets/images/turtlebot_family.png" alt="TurtleBot Family" style="width:100%; max-width:800px;" />
 </div>
 
+
 <br>
 
-# TurtleBot3 Providers
+# TurtleBot 4 
 
+<div style=" text-align:center ; padding:10px; ">
+  <img id="family" src="{{ site.baseurl }}/assets/images/TurtleBot4_Header.png" alt="turtleBot4 with logo" style="width:100%; max-width:800px;" />
+</div>
+
+## Partners
+### The TurtleBot 4 was created in a partnership between Open Robotics and Clearpath Robotics.
+
+<br>
+
+<div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="https://www.openrobotics.org/"><img title="Open Robotics" src="{{ site.baseurl }}/assets/images/collaboration/OpenRobotics.png" alt="Open Robotics" width="200px" /></a>
+  </div>
+
+  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
+  <a href="http://www.clearpathrobotics.com"><img title="Clearpath_Robotics" src="{{ site.baseurl }}/assets/images/distributors/Clearpath_Robotics.png" alt="Clearpath Robotics" width="200px" /></a>
+  </div>
+</div>
+
+<br>
+
+## Distributors
+
+<br>
+
+{% include turtlebot4_distributors.md %}
+
+
+
+<br>
+
+
+
+
+# TurtleBot3
+
+<div style=" text-align:center ; padding:10px; ">
+  <img id="family" src="{{ site.baseurl }}/assets/images/turtlebot3_with_logo.png" alt="turtleBot3 with logo" style="width:100%; max-width:800px;" />
+</div>
+
+## Partners
+### The TurtleBot 4 was created in a partnership between Open Robotics and ROBOTIS.
 <br>
 
 <div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
@@ -47,61 +92,7 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 
 <br>
 
-# TurtleBot3 Partners and Research Collaborators
-
-<br>
-
-<div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="http://www.theconstructsim.com/"><img title="The Construct" src="{{ site.baseurl }}/assets/images/collaboration/TheConstruct.png" alt="The Construct" width="120px" /></a>
-  </div>
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="http://www.intel.com/"><img title="Intel" src="{{ site.baseurl }}/assets/images/collaboration/Intel.png" alt="Intel" width="120px" /></a>
-  </div>
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="https://www.onshape.com/"><img title="Onshape" src="{{ site.baseurl }}/assets/images/collaboration/Onshape.png" alt="Onshape" width="120px" /></a>
-  </div>
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="http://www.oroca.org/"><img title="OROCA" src="{{ site.baseurl }}/assets/images/collaboration/OROCA.png" alt="OROCA" width="120px" /></a>
-  </div>
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="https://github.com/AuTURBO/"><img title="AuTURBO" src="{{ site.baseurl }}/assets/images/collaboration/AuTURBO.png" alt="AuTURBO" width="120px" /></a>
-  </div>
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="https://www.youtube.com/channel/UCLvvXbwPkostryBQt4MIbUw"><img title="ROS in Robotclub Malaysia" src="{{ site.baseurl }}/assets/images/collaboration/ROS_in_Robotclub_Malaysia.jpg" alt="ROS in Robotclub Malaysia" width="120px" /></a>
-  </div>
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="https://www.youtube.com/channel/UCWiIY_zrKH-LMlx2GBWu3yA"><img title="Astana Digital" src="{{ site.baseurl }}/assets/images/collaboration/Astana_Digital.png" alt="Astana Digital" width="120px" /></a>
-  </div>
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="https://www.polariant.io/"><img title="Polariant Experiment" src="{{ site.baseurl }}/assets/images/collaboration/POLARIANT.png" alt="Polariant Experiment" width="120px" /></a>
-  </div>
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="http://web.tuat.ac.jp/~gvlab/"><img title="Tokyo University of Agriculture and Technology, GVlab" src="{{ site.baseurl }}/assets/images/collaboration/GVLAB.jpg" alt="Tokyo University of Agriculture and Technology, GVlab" width="120px" /></a>
-  </div>
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="https://sites.google.com/a/g2.nctu.edu.tw/ncrl/"><img title="Networked Control Robotics Lab at National Chiao Tung University" src="{{ site.baseurl }}/assets/images/collaboration/NCTU.png" alt="Networked Control Robotics Lab at National Chiao Tung University" width="120px" /></a>
-  </div>
-
-  <div style="flex:1;flex-shrink:0;min-width:150px;margin:auto;">
-  <a href="https://www.sim.informatik.tu-darmstadt.de/en/index/ "><img title="Simulation, Systems Optimization and Robotics Group" src="{{ site.baseurl }}/assets/images/collaboration/TUDA_SIM_Group.png" alt="Simulation, Systems Optimization and Robotics Group" width="120px" /></a>
-  </div>
-
-</div>
-
-<br>
-
-# TurtleBot3 Distributors
+## Distributors
 
 <br>
 

@@ -4,6 +4,12 @@ title: Where to buy
 html_title: Where to buy - TurtleBot
 show_in_nav: true
 ---
+# TurtleBot4 Distributors
+
+{% include turtlebot4_distributors.md %}
+
+<br>
+
 # TurtleBot3 Distributors
 
 {% include turtlebot3_distributors.md %}
