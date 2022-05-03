@@ -58,13 +58,16 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 <br>
 
 ## Distributors
-
+### Buy now from one of our distributors
 <br>
 
 {% include turtlebot4_distributors.md %}
 
 
 
+<br>
+<br>
+<br>
 <br>
 
 
@@ -77,7 +80,7 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 </div>
 
 ## Partners
-### The TurtleBot 4 was created in a partnership between Open Robotics and ROBOTIS.
+### The TurtleBot 3 was created in a partnership between Open Robotics and ROBOTIS.
 <br>
 
 <div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
@@ -93,6 +96,7 @@ For more information, we recommend an interview with TurtleBot creators, Tully F
 <br>
 
 ## Distributors
+### Buy now from one of our distributors
 
 <br>
 
