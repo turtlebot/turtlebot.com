@@ -27,7 +27,7 @@ There are two generations of TurtleBots in production now. The [TurtleBot4](http
 # TurtleBot 4 
 
 <div style=" text-align:center ; padding:10px; ">
-  <img id="family" src="{{ site.baseurl }}/assets/images/TurtleBot4_Header.png" alt="turtleBot4 with logo" style="width:100%; max-width:800px;" />
+  <img id="family" src="{{ site.baseurl }}/assets/images/TurtleBot4_Lobby.jpg" alt="turtleBot4 in lobby" style="width:100%; max-width:800px;" />
 </div>
 
 ## Partners
