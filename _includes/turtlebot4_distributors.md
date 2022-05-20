@@ -3,7 +3,7 @@
   
   <div style="flex:1;flex-shrink:0;min-width:300px;margin:auto;text-align:center;">
   <h2 style="text-align:center">North America</h2>
-  <a href="https://www.robotshop.com/en/clearpath-robotics.html"><img title="Robot Shop" src="{{ site.baseurl }}/assets/images/distributors/robotshoplogo.png" alt="Robot Shop" width="200px" /></a>
+  <a href="https://www.robotshop.com/en/clearpath-robotics.html"><img title="Robot Shop" src="{{ site.baseurl }}/assets/images/distributors/robotshoplogo.svg" alt="Robot Shop" width="200px" /></a>
   </div>
 
 
