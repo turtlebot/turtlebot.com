@@ -30,6 +30,11 @@ There are two generations of TurtleBots in production now. The [TurtleBot4](http
   <img id="family" src="{{ site.baseurl }}/assets/images/TurtleBot4_Lobby.jpg" alt="turtleBot4 in lobby" style="width:100%; max-width:800px;" />
 </div>
 
+## Unboxing Video
+<div style=" text-align:center ; padding:10px; ">
+<iframe width="560" height="440" src="https://www.youtube-nocookie.com/embed/QN01AXjoLdQ" title="TurtleBot Unboxing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Partners
 ### The TurtleBot 4 was created in a partnership between Open Robotics and Clearpath Robotics.
 
